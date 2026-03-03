@@ -1,0 +1,1777 @@
+periodo,banco,sector,creditos_miles,fecha
+2020-12,BBVA,"Agricultura, Ganadería, Caza y Silvicultura",2307799.47,2020-12-01
+2020-12,Comercio,"Agricultura, Ganadería, Caza y Silvicultura",30226.62,2020-12-01
+2020-12,BCP,"Agricultura, Ganadería, Caza y Silvicultura",2905675.07,2020-12-01
+2020-12,Pichincha,"Agricultura, Ganadería, Caza y Silvicultura",443985.09,2020-12-01
+2020-12,BanBif,"Agricultura, Ganadería, Caza y Silvicultura",785222.8,2020-12-01
+2020-12,Scotiabank,"Agricultura, Ganadería, Caza y Silvicultura",1697785.71,2020-12-01
+2020-12,Citibank,"Agricultura, Ganadería, Caza y Silvicultura",8.18,2020-12-01
+2020-12,Interbank,"Agricultura, Ganadería, Caza y Silvicultura",1479827.23,2020-12-01
+2020-12,Mibanco,"Agricultura, Ganadería, Caza y Silvicultura",430834.89,2020-12-01
+2020-12,GNB,"Agricultura, Ganadería, Caza y Silvicultura",138516.43,2020-12-01
+2020-12,Falabella,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2020-12-01
+2020-12,Santander,"Agricultura, Ganadería, Caza y Silvicultura",613256.61,2020-12-01
+2020-12,Ripley,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2020-12-01
+2020-12,Azteca,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2020-12-01
+2020-12,ICBC,"Agricultura, Ganadería, Caza y Silvicultura",122722.33,2020-12-01
+2020-12,Bank of China,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2020-12-01
+2020-12,BBVA,Pesca,275511.58,2020-12-01
+2020-12,Comercio,Pesca,3477.54,2020-12-01
+2020-12,BCP,Pesca,585641.58,2020-12-01
+2020-12,Pichincha,Pesca,27508.18,2020-12-01
+2020-12,BanBif,Pesca,21485.47,2020-12-01
+2020-12,Scotiabank,Pesca,63771.54,2020-12-01
+2020-12,Citibank,Pesca,0.0,2020-12-01
+2020-12,Interbank,Pesca,309891.2,2020-12-01
+2020-12,Mibanco,Pesca,22779.55,2020-12-01
+2020-12,GNB,Pesca,2385.44,2020-12-01
+2020-12,Falabella,Pesca,0.0,2020-12-01
+2020-12,Santander,Pesca,57833.47,2020-12-01
+2020-12,Ripley,Pesca,0.0,2020-12-01
+2020-12,Azteca,Pesca,0.0,2020-12-01
+2020-12,ICBC,Pesca,0.0,2020-12-01
+2020-12,Bank of China,Pesca,0.0,2020-12-01
+2020-12,BBVA,Minería,2007470.84,2020-12-01
+2020-12,Comercio,Minería,0.0,2020-12-01
+2020-12,BCP,Minería,3623996.5,2020-12-01
+2020-12,Pichincha,Minería,137358.18,2020-12-01
+2020-12,BanBif,Minería,488886.08,2020-12-01
+2020-12,Scotiabank,Minería,1999050.99,2020-12-01
+2020-12,Citibank,Minería,219431.46,2020-12-01
+2020-12,Interbank,Minería,746219.01,2020-12-01
+2020-12,Mibanco,Minería,5611.87,2020-12-01
+2020-12,GNB,Minería,1166.78,2020-12-01
+2020-12,Falabella,Minería,0.0,2020-12-01
+2020-12,Santander,Minería,190383.25,2020-12-01
+2020-12,Ripley,Minería,0.0,2020-12-01
+2020-12,Azteca,Minería,0.0,2020-12-01
+2020-12,ICBC,Minería,156784.91,2020-12-01
+2020-12,Bank of China,Minería,0.0,2020-12-01
+2020-12,BBVA,Industria Manufacturera,10042002.41,2020-12-01
+2020-12,Comercio,Industria Manufacturera,67058.21,2020-12-01
+2020-12,BCP,Industria Manufacturera,16917789.83,2020-12-01
+2020-12,Pichincha,Industria Manufacturera,644598.69,2020-12-01
+2020-12,BanBif,Industria Manufacturera,2084415.74,2020-12-01
+2020-12,Scotiabank,Industria Manufacturera,7901851.39,2020-12-01
+2020-12,Citibank,Industria Manufacturera,380841.16,2020-12-01
+2020-12,Interbank,Industria Manufacturera,4332821.83,2020-12-01
+2020-12,Mibanco,Industria Manufacturera,1010906.49,2020-12-01
+2020-12,GNB,Industria Manufacturera,108482.4,2020-12-01
+2020-12,Falabella,Industria Manufacturera,0.0,2020-12-01
+2020-12,Santander,Industria Manufacturera,1023282.29,2020-12-01
+2020-12,Ripley,Industria Manufacturera,0.0,2020-12-01
+2020-12,Azteca,Industria Manufacturera,0.0,2020-12-01
+2020-12,ICBC,Industria Manufacturera,138647.13,2020-12-01
+2020-12,Bank of China,Industria Manufacturera,0.0,2020-12-01
+2020-12,BBVA,"Electricidad, Gas y Agua",1392349.71,2020-12-01
+2020-12,Comercio,"Electricidad, Gas y Agua",0.1,2020-12-01
+2020-12,BCP,"Electricidad, Gas y Agua",3228030.02,2020-12-01
+2020-12,Pichincha,"Electricidad, Gas y Agua",272.18,2020-12-01
+2020-12,BanBif,"Electricidad, Gas y Agua",125514.63,2020-12-01
+2020-12,Scotiabank,"Electricidad, Gas y Agua",1927975.15,2020-12-01
+2020-12,Citibank,"Electricidad, Gas y Agua",87967.34,2020-12-01
+2020-12,Interbank,"Electricidad, Gas y Agua",1024448.28,2020-12-01
+2020-12,Mibanco,"Electricidad, Gas y Agua",10733.59,2020-12-01
+2020-12,GNB,"Electricidad, Gas y Agua",83.62,2020-12-01
+2020-12,Falabella,"Electricidad, Gas y Agua",0.0,2020-12-01
+2020-12,Santander,"Electricidad, Gas y Agua",13800.0,2020-12-01
+2020-12,Ripley,"Electricidad, Gas y Agua",0.0,2020-12-01
+2020-12,Azteca,"Electricidad, Gas y Agua",0.0,2020-12-01
+2020-12,ICBC,"Electricidad, Gas y Agua",54315.0,2020-12-01
+2020-12,Bank of China,"Electricidad, Gas y Agua",0.0,2020-12-01
+2020-12,BBVA,Construcción,1416643.33,2020-12-01
+2020-12,Comercio,Construcción,31759.24,2020-12-01
+2020-12,BCP,Construcción,2895629.05,2020-12-01
+2020-12,Pichincha,Construcción,318519.95,2020-12-01
+2020-12,BanBif,Construcción,425045.51,2020-12-01
+2020-12,Scotiabank,Construcción,311133.6,2020-12-01
+2020-12,Citibank,Construcción,0.0,2020-12-01
+2020-12,Interbank,Construcción,777938.39,2020-12-01
+2020-12,Mibanco,Construcción,508231.38,2020-12-01
+2020-12,GNB,Construcción,105301.81,2020-12-01
+2020-12,Falabella,Construcción,0.0,2020-12-01
+2020-12,Santander,Construcción,152744.6,2020-12-01
+2020-12,Ripley,Construcción,0.0,2020-12-01
+2020-12,Azteca,Construcción,0.0,2020-12-01
+2020-12,ICBC,Construcción,0.0,2020-12-01
+2020-12,Bank of China,Construcción,0.0,2020-12-01
+2020-12,BBVA,Comercio,14327735.51,2020-12-01
+2020-12,Comercio,Comercio,63005.66,2020-12-01
+2020-12,BCP,Comercio,18855474.38,2020-12-01
+2020-12,Pichincha,Comercio,1409438.36,2020-12-01
+2020-12,BanBif,Comercio,1591708.88,2020-12-01
+2020-12,Scotiabank,Comercio,7191304.28,2020-12-01
+2020-12,Citibank,Comercio,488096.61,2020-12-01
+2020-12,Interbank,Comercio,5275592.52,2020-12-01
+2020-12,Mibanco,Comercio,6169012.31,2020-12-01
+2020-12,GNB,Comercio,224728.52,2020-12-01
+2020-12,Falabella,Comercio,0.0,2020-12-01
+2020-12,Santander,Comercio,747734.58,2020-12-01
+2020-12,Ripley,Comercio,0.0,2020-12-01
+2020-12,Azteca,Comercio,0.0,2020-12-01
+2020-12,ICBC,Comercio,144402.44,2020-12-01
+2020-12,Bank of China,Comercio,0.0,2020-12-01
+2020-12,BBVA,Hoteles y Restaurantes,1780767.61,2020-12-01
+2020-12,Comercio,Hoteles y Restaurantes,155.0,2020-12-01
+2020-12,BCP,Hoteles y Restaurantes,2054426.82,2020-12-01
+2020-12,Pichincha,Hoteles y Restaurantes,22291.13,2020-12-01
+2020-12,BanBif,Hoteles y Restaurantes,106238.64,2020-12-01
+2020-12,Scotiabank,Hoteles y Restaurantes,431681.35,2020-12-01
+2020-12,Citibank,Hoteles y Restaurantes,2565.06,2020-12-01
+2020-12,Interbank,Hoteles y Restaurantes,410206.71,2020-12-01
+2020-12,Mibanco,Hoteles y Restaurantes,807591.39,2020-12-01
+2020-12,GNB,Hoteles y Restaurantes,2935.91,2020-12-01
+2020-12,Falabella,Hoteles y Restaurantes,0.0,2020-12-01
+2020-12,Santander,Hoteles y Restaurantes,138354.31,2020-12-01
+2020-12,Ripley,Hoteles y Restaurantes,0.0,2020-12-01
+2020-12,Azteca,Hoteles y Restaurantes,0.0,2020-12-01
+2020-12,ICBC,Hoteles y Restaurantes,0.0,2020-12-01
+2020-12,Bank of China,Hoteles y Restaurantes,0.0,2020-12-01
+2020-12,BBVA,"Transporte, Almacenamiento y Comunicaciones",5706033.14,2020-12-01
+2020-12,Comercio,"Transporte, Almacenamiento y Comunicaciones",14944.15,2020-12-01
+2020-12,BCP,"Transporte, Almacenamiento y Comunicaciones",6221663.05,2020-12-01
+2020-12,Pichincha,"Transporte, Almacenamiento y Comunicaciones",439695.38,2020-12-01
+2020-12,BanBif,"Transporte, Almacenamiento y Comunicaciones",439656.02,2020-12-01
+2020-12,Scotiabank,"Transporte, Almacenamiento y Comunicaciones",3308087.28,2020-12-01
+2020-12,Citibank,"Transporte, Almacenamiento y Comunicaciones",35628.74,2020-12-01
+2020-12,Interbank,"Transporte, Almacenamiento y Comunicaciones",1373876.14,2020-12-01
+2020-12,Mibanco,"Transporte, Almacenamiento y Comunicaciones",1607352.13,2020-12-01
+2020-12,GNB,"Transporte, Almacenamiento y Comunicaciones",143476.61,2020-12-01
+2020-12,Falabella,"Transporte, Almacenamiento y Comunicaciones",0.0,2020-12-01
+2020-12,Santander,"Transporte, Almacenamiento y Comunicaciones",234943.62,2020-12-01
+2020-12,Ripley,"Transporte, Almacenamiento y Comunicaciones",0.0,2020-12-01
+2020-12,Azteca,"Transporte, Almacenamiento y Comunicaciones",0.0,2020-12-01
+2020-12,ICBC,"Transporte, Almacenamiento y Comunicaciones",0.0,2020-12-01
+2020-12,Bank of China,"Transporte, Almacenamiento y Comunicaciones",0.0,2020-12-01
+2020-12,BBVA,Intermediación Financiera,1432763.71,2020-12-01
+2020-12,Comercio,Intermediación Financiera,0.0,2020-12-01
+2020-12,BCP,Intermediación Financiera,3904737.74,2020-12-01
+2020-12,Pichincha,Intermediación Financiera,133328.18,2020-12-01
+2020-12,BanBif,Intermediación Financiera,504035.33,2020-12-01
+2020-12,Scotiabank,Intermediación Financiera,1050490.11,2020-12-01
+2020-12,Citibank,Intermediación Financiera,221698.7,2020-12-01
+2020-12,Interbank,Intermediación Financiera,752222.58,2020-12-01
+2020-12,Mibanco,Intermediación Financiera,8039.75,2020-12-01
+2020-12,GNB,Intermediación Financiera,150473.39,2020-12-01
+2020-12,Falabella,Intermediación Financiera,0.0,2020-12-01
+2020-12,Santander,Intermediación Financiera,187276.14,2020-12-01
+2020-12,Ripley,Intermediación Financiera,0.0,2020-12-01
+2020-12,Azteca,Intermediación Financiera,0.0,2020-12-01
+2020-12,ICBC,Intermediación Financiera,54295.9,2020-12-01
+2020-12,Bank of China,Intermediación Financiera,0.0,2020-12-01
+2020-12,BBVA,"Actividades Inmobiliarias, Empresariales y de Alquiler",5959732.97,2020-12-01
+2020-12,Comercio,"Actividades Inmobiliarias, Empresariales y de Alquiler",36665.22,2020-12-01
+2020-12,BCP,"Actividades Inmobiliarias, Empresariales y de Alquiler",11300802.87,2020-12-01
+2020-12,Pichincha,"Actividades Inmobiliarias, Empresariales y de Alquiler",466121.87,2020-12-01
+2020-12,BanBif,"Actividades Inmobiliarias, Empresariales y de Alquiler",1100962.02,2020-12-01
+2020-12,Scotiabank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4748228.35,2020-12-01
+2020-12,Citibank,"Actividades Inmobiliarias, Empresariales y de Alquiler",30165.55,2020-12-01
+2020-12,Interbank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4880225.15,2020-12-01
+2020-12,Mibanco,"Actividades Inmobiliarias, Empresariales y de Alquiler",997390.11,2020-12-01
+2020-12,GNB,"Actividades Inmobiliarias, Empresariales y de Alquiler",83601.55,2020-12-01
+2020-12,Falabella,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2020-12-01
+2020-12,Santander,"Actividades Inmobiliarias, Empresariales y de Alquiler",1035746.94,2020-12-01
+2020-12,Ripley,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2020-12-01
+2020-12,Azteca,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2020-12-01
+2020-12,ICBC,"Actividades Inmobiliarias, Empresariales y de Alquiler",373.01,2020-12-01
+2020-12,Bank of China,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2020-12-01
+2020-12,BBVA,Administración Pública y Defensa,206019.67,2020-12-01
+2020-12,Comercio,Administración Pública y Defensa,1062.43,2020-12-01
+2020-12,BCP,Administración Pública y Defensa,175645.07,2020-12-01
+2020-12,Pichincha,Administración Pública y Defensa,693.82,2020-12-01
+2020-12,BanBif,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Scotiabank,Administración Pública y Defensa,215286.27,2020-12-01
+2020-12,Citibank,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Interbank,Administración Pública y Defensa,157168.78,2020-12-01
+2020-12,Mibanco,Administración Pública y Defensa,4623.35,2020-12-01
+2020-12,GNB,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Falabella,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Santander,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Ripley,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Azteca,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,ICBC,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,Bank of China,Administración Pública y Defensa,0.0,2020-12-01
+2020-12,BBVA,Enseñanza,986281.3,2020-12-01
+2020-12,Comercio,Enseñanza,12224.76,2020-12-01
+2020-12,BCP,Enseñanza,1765227.03,2020-12-01
+2020-12,Pichincha,Enseñanza,3148.59,2020-12-01
+2020-12,BanBif,Enseñanza,290626.14,2020-12-01
+2020-12,Scotiabank,Enseñanza,1188748.25,2020-12-01
+2020-12,Citibank,Enseñanza,0.0,2020-12-01
+2020-12,Interbank,Enseñanza,362638.37,2020-12-01
+2020-12,Mibanco,Enseñanza,58323.26,2020-12-01
+2020-12,GNB,Enseñanza,3116.31,2020-12-01
+2020-12,Falabella,Enseñanza,0.0,2020-12-01
+2020-12,Santander,Enseñanza,101095.34,2020-12-01
+2020-12,Ripley,Enseñanza,0.0,2020-12-01
+2020-12,Azteca,Enseñanza,0.0,2020-12-01
+2020-12,ICBC,Enseñanza,0.0,2020-12-01
+2020-12,Bank of China,Enseñanza,0.0,2020-12-01
+2020-12,BBVA,Servicios Sociales y Salud,819099.18,2020-12-01
+2020-12,Comercio,Servicios Sociales y Salud,5546.2,2020-12-01
+2020-12,BCP,Servicios Sociales y Salud,647796.0,2020-12-01
+2020-12,Pichincha,Servicios Sociales y Salud,34689.34,2020-12-01
+2020-12,BanBif,Servicios Sociales y Salud,47455.14,2020-12-01
+2020-12,Scotiabank,Servicios Sociales y Salud,279469.78,2020-12-01
+2020-12,Citibank,Servicios Sociales y Salud,370.09,2020-12-01
+2020-12,Interbank,Servicios Sociales y Salud,65452.1,2020-12-01
+2020-12,Mibanco,Servicios Sociales y Salud,101003.55,2020-12-01
+2020-12,GNB,Servicios Sociales y Salud,1897.0,2020-12-01
+2020-12,Falabella,Servicios Sociales y Salud,0.0,2020-12-01
+2020-12,Santander,Servicios Sociales y Salud,9657.42,2020-12-01
+2020-12,Ripley,Servicios Sociales y Salud,0.0,2020-12-01
+2020-12,Azteca,Servicios Sociales y Salud,0.0,2020-12-01
+2020-12,ICBC,Servicios Sociales y Salud,0.0,2020-12-01
+2020-12,Bank of China,Servicios Sociales y Salud,0.0,2020-12-01
+2020-12,BBVA,Otras Actividades de Servicios Comunitarios,937059.96,2020-12-01
+2020-12,Comercio,Otras Actividades de Servicios Comunitarios,8525.54,2020-12-01
+2020-12,BCP,Otras Actividades de Servicios Comunitarios,7684600.62,2020-12-01
+2020-12,Pichincha,Otras Actividades de Servicios Comunitarios,84902.03,2020-12-01
+2020-12,BanBif,Otras Actividades de Servicios Comunitarios,112570.49,2020-12-01
+2020-12,Scotiabank,Otras Actividades de Servicios Comunitarios,891960.03,2020-12-01
+2020-12,Citibank,Otras Actividades de Servicios Comunitarios,10.04,2020-12-01
+2020-12,Interbank,Otras Actividades de Servicios Comunitarios,318629.07,2020-12-01
+2020-12,Mibanco,Otras Actividades de Servicios Comunitarios,210423.34,2020-12-01
+2020-12,GNB,Otras Actividades de Servicios Comunitarios,64457.9,2020-12-01
+2020-12,Falabella,Otras Actividades de Servicios Comunitarios,0.83,2020-12-01
+2020-12,Santander,Otras Actividades de Servicios Comunitarios,26694.79,2020-12-01
+2020-12,Ripley,Otras Actividades de Servicios Comunitarios,0.0,2020-12-01
+2020-12,Azteca,Otras Actividades de Servicios Comunitarios,0.0,2020-12-01
+2020-12,ICBC,Otras Actividades de Servicios Comunitarios,0.0,2020-12-01
+2020-12,Bank of China,Otras Actividades de Servicios Comunitarios,0.0,2020-12-01
+2020-12,BBVA,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,642687.93,2020-12-01
+2020-12,Comercio,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,3998.25,2020-12-01
+2020-12,BCP,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,12725.24,2020-12-01
+2020-12,Pichincha,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,493638.3,2020-12-01
+2020-12,BanBif,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,136197.14,2020-12-01
+2020-12,Scotiabank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,800015.26,2020-12-01
+2020-12,Citibank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Interbank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,40434.78,2020-12-01
+2020-12,Mibanco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,323.86,2020-12-01
+2020-12,GNB,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Falabella,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Santander,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Ripley,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Azteca,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,ICBC,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2020-12,Bank of China,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2020-12-01
+2021-12,BBVA,"Agricultura, Ganadería, Caza y Silvicultura",2727397.85,2021-12-01
+2021-12,Comercio,"Agricultura, Ganadería, Caza y Silvicultura",40593.42,2021-12-01
+2021-12,BCP,"Agricultura, Ganadería, Caza y Silvicultura",3233241.33,2021-12-01
+2021-12,Pichincha,"Agricultura, Ganadería, Caza y Silvicultura",515379.23,2021-12-01
+2021-12,BanBif,"Agricultura, Ganadería, Caza y Silvicultura",963830.08,2021-12-01
+2021-12,Scotiabank,"Agricultura, Ganadería, Caza y Silvicultura",2048859.01,2021-12-01
+2021-12,Citibank,"Agricultura, Ganadería, Caza y Silvicultura",12.22,2021-12-01
+2021-12,Interbank,"Agricultura, Ganadería, Caza y Silvicultura",1767473.28,2021-12-01
+2021-12,Mibanco,"Agricultura, Ganadería, Caza y Silvicultura",426945.97,2021-12-01
+2021-12,GNB,"Agricultura, Ganadería, Caza y Silvicultura",138691.32,2021-12-01
+2021-12,Falabella,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2021-12-01
+2021-12,Santander,"Agricultura, Ganadería, Caza y Silvicultura",768426.72,2021-12-01
+2021-12,Ripley,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2021-12-01
+2021-12,Alfin Banco,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2021-12-01
+2021-12,ICBC,"Agricultura, Ganadería, Caza y Silvicultura",179950.6,2021-12-01
+2021-12,Bank of China,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2021-12-01
+2021-12,BBVA,Pesca,250714.07,2021-12-01
+2021-12,Comercio,Pesca,133.88,2021-12-01
+2021-12,BCP,Pesca,505049.78,2021-12-01
+2021-12,Pichincha,Pesca,36877.64,2021-12-01
+2021-12,BanBif,Pesca,23912.17,2021-12-01
+2021-12,Scotiabank,Pesca,76102.75,2021-12-01
+2021-12,Citibank,Pesca,0.0,2021-12-01
+2021-12,Interbank,Pesca,330756.2,2021-12-01
+2021-12,Mibanco,Pesca,26054.48,2021-12-01
+2021-12,GNB,Pesca,11389.92,2021-12-01
+2021-12,Falabella,Pesca,0.0,2021-12-01
+2021-12,Santander,Pesca,85387.28,2021-12-01
+2021-12,Ripley,Pesca,0.0,2021-12-01
+2021-12,Alfin Banco,Pesca,0.0,2021-12-01
+2021-12,ICBC,Pesca,0.0,2021-12-01
+2021-12,Bank of China,Pesca,0.0,2021-12-01
+2021-12,BBVA,Minería,2201883.29,2021-12-01
+2021-12,Comercio,Minería,1836.32,2021-12-01
+2021-12,BCP,Minería,4687193.4,2021-12-01
+2021-12,Pichincha,Minería,66433.08,2021-12-01
+2021-12,BanBif,Minería,345357.13,2021-12-01
+2021-12,Scotiabank,Minería,1670597.21,2021-12-01
+2021-12,Citibank,Minería,204718.46,2021-12-01
+2021-12,Interbank,Minería,676389.56,2021-12-01
+2021-12,Mibanco,Minería,6724.07,2021-12-01
+2021-12,GNB,Minería,0.0,2021-12-01
+2021-12,Falabella,Minería,0.0,2021-12-01
+2021-12,Santander,Minería,222455.39,2021-12-01
+2021-12,Ripley,Minería,0.0,2021-12-01
+2021-12,Alfin Banco,Minería,0.0,2021-12-01
+2021-12,ICBC,Minería,150931.71,2021-12-01
+2021-12,Bank of China,Minería,0.0,2021-12-01
+2021-12,BBVA,Industria Manufacturera,11572044.41,2021-12-01
+2021-12,Comercio,Industria Manufacturera,62419.09,2021-12-01
+2021-12,BCP,Industria Manufacturera,19974523.46,2021-12-01
+2021-12,Pichincha,Industria Manufacturera,700174.94,2021-12-01
+2021-12,BanBif,Industria Manufacturera,2469804.35,2021-12-01
+2021-12,Scotiabank,Industria Manufacturera,9717356.43,2021-12-01
+2021-12,Citibank,Industria Manufacturera,724218.2,2021-12-01
+2021-12,Interbank,Industria Manufacturera,4881691.16,2021-12-01
+2021-12,Mibanco,Industria Manufacturera,1049726.55,2021-12-01
+2021-12,GNB,Industria Manufacturera,74575.46,2021-12-01
+2021-12,Falabella,Industria Manufacturera,0.0,2021-12-01
+2021-12,Santander,Industria Manufacturera,1255697.75,2021-12-01
+2021-12,Ripley,Industria Manufacturera,0.0,2021-12-01
+2021-12,Alfin Banco,Industria Manufacturera,0.0,2021-12-01
+2021-12,ICBC,Industria Manufacturera,242287.51,2021-12-01
+2021-12,Bank of China,Industria Manufacturera,0.0,2021-12-01
+2021-12,BBVA,"Electricidad, Gas y Agua",1793180.09,2021-12-01
+2021-12,Comercio,"Electricidad, Gas y Agua",0.15,2021-12-01
+2021-12,BCP,"Electricidad, Gas y Agua",4059508.37,2021-12-01
+2021-12,Pichincha,"Electricidad, Gas y Agua",2103.13,2021-12-01
+2021-12,BanBif,"Electricidad, Gas y Agua",119253.02,2021-12-01
+2021-12,Scotiabank,"Electricidad, Gas y Agua",2959261.93,2021-12-01
+2021-12,Citibank,"Electricidad, Gas y Agua",286038.58,2021-12-01
+2021-12,Interbank,"Electricidad, Gas y Agua",918315.3,2021-12-01
+2021-12,Mibanco,"Electricidad, Gas y Agua",11925.82,2021-12-01
+2021-12,GNB,"Electricidad, Gas y Agua",0.0,2021-12-01
+2021-12,Falabella,"Electricidad, Gas y Agua",0.0,2021-12-01
+2021-12,Santander,"Electricidad, Gas y Agua",3089.75,2021-12-01
+2021-12,Ripley,"Electricidad, Gas y Agua",0.0,2021-12-01
+2021-12,Alfin Banco,"Electricidad, Gas y Agua",0.0,2021-12-01
+2021-12,ICBC,"Electricidad, Gas y Agua",60482.63,2021-12-01
+2021-12,Bank of China,"Electricidad, Gas y Agua",0.0,2021-12-01
+2021-12,BBVA,Construcción,1477096.19,2021-12-01
+2021-12,Comercio,Construcción,27482.79,2021-12-01
+2021-12,BCP,Construcción,2883921.54,2021-12-01
+2021-12,Pichincha,Construcción,324917.04,2021-12-01
+2021-12,BanBif,Construcción,412437.97,2021-12-01
+2021-12,Scotiabank,Construcción,316442.32,2021-12-01
+2021-12,Citibank,Construcción,11024.41,2021-12-01
+2021-12,Interbank,Construcción,732628.46,2021-12-01
+2021-12,Mibanco,Construcción,558228.67,2021-12-01
+2021-12,GNB,Construcción,92549.83,2021-12-01
+2021-12,Falabella,Construcción,0.0,2021-12-01
+2021-12,Santander,Construcción,234069.58,2021-12-01
+2021-12,Ripley,Construcción,0.0,2021-12-01
+2021-12,Alfin Banco,Construcción,0.0,2021-12-01
+2021-12,ICBC,Construcción,0.0,2021-12-01
+2021-12,Bank of China,Construcción,0.0,2021-12-01
+2021-12,BBVA,Comercio,15007388.26,2021-12-01
+2021-12,Comercio,Comercio,63437.34,2021-12-01
+2021-12,BCP,Comercio,20618899.17,2021-12-01
+2021-12,Pichincha,Comercio,1444411.02,2021-12-01
+2021-12,BanBif,Comercio,1726102.17,2021-12-01
+2021-12,Scotiabank,Comercio,8537393.6,2021-12-01
+2021-12,Citibank,Comercio,349888.06,2021-12-01
+2021-12,Interbank,Comercio,4991046.21,2021-12-01
+2021-12,Mibanco,Comercio,6447387.16,2021-12-01
+2021-12,GNB,Comercio,179395.14,2021-12-01
+2021-12,Falabella,Comercio,0.0,2021-12-01
+2021-12,Santander,Comercio,840035.05,2021-12-01
+2021-12,Ripley,Comercio,0.0,2021-12-01
+2021-12,Alfin Banco,Comercio,0.0,2021-12-01
+2021-12,ICBC,Comercio,136869.71,2021-12-01
+2021-12,Bank of China,Comercio,20000.0,2021-12-01
+2021-12,BBVA,Hoteles y Restaurantes,1722812.88,2021-12-01
+2021-12,Comercio,Hoteles y Restaurantes,155.0,2021-12-01
+2021-12,BCP,Hoteles y Restaurantes,2036782.1,2021-12-01
+2021-12,Pichincha,Hoteles y Restaurantes,26433.3,2021-12-01
+2021-12,BanBif,Hoteles y Restaurantes,102935.45,2021-12-01
+2021-12,Scotiabank,Hoteles y Restaurantes,448347.12,2021-12-01
+2021-12,Citibank,Hoteles y Restaurantes,212.74,2021-12-01
+2021-12,Interbank,Hoteles y Restaurantes,425545.29,2021-12-01
+2021-12,Mibanco,Hoteles y Restaurantes,819995.17,2021-12-01
+2021-12,GNB,Hoteles y Restaurantes,2254.78,2021-12-01
+2021-12,Falabella,Hoteles y Restaurantes,0.0,2021-12-01
+2021-12,Santander,Hoteles y Restaurantes,243625.63,2021-12-01
+2021-12,Ripley,Hoteles y Restaurantes,0.0,2021-12-01
+2021-12,Alfin Banco,Hoteles y Restaurantes,0.0,2021-12-01
+2021-12,ICBC,Hoteles y Restaurantes,0.0,2021-12-01
+2021-12,Bank of China,Hoteles y Restaurantes,0.0,2021-12-01
+2021-12,BBVA,"Transporte, Almacenamiento y Comunicaciones",6657607.45,2021-12-01
+2021-12,Comercio,"Transporte, Almacenamiento y Comunicaciones",17079.12,2021-12-01
+2021-12,BCP,"Transporte, Almacenamiento y Comunicaciones",5953406.7,2021-12-01
+2021-12,Pichincha,"Transporte, Almacenamiento y Comunicaciones",374116.04,2021-12-01
+2021-12,BanBif,"Transporte, Almacenamiento y Comunicaciones",390708.14,2021-12-01
+2021-12,Scotiabank,"Transporte, Almacenamiento y Comunicaciones",3445515.83,2021-12-01
+2021-12,Citibank,"Transporte, Almacenamiento y Comunicaciones",28976.18,2021-12-01
+2021-12,Interbank,"Transporte, Almacenamiento y Comunicaciones",1082284.72,2021-12-01
+2021-12,Mibanco,"Transporte, Almacenamiento y Comunicaciones",1547231.9,2021-12-01
+2021-12,GNB,"Transporte, Almacenamiento y Comunicaciones",134859.66,2021-12-01
+2021-12,Falabella,"Transporte, Almacenamiento y Comunicaciones",0.0,2021-12-01
+2021-12,Santander,"Transporte, Almacenamiento y Comunicaciones",434611.54,2021-12-01
+2021-12,Ripley,"Transporte, Almacenamiento y Comunicaciones",0.0,2021-12-01
+2021-12,Alfin Banco,"Transporte, Almacenamiento y Comunicaciones",0.0,2021-12-01
+2021-12,ICBC,"Transporte, Almacenamiento y Comunicaciones",0.0,2021-12-01
+2021-12,Bank of China,"Transporte, Almacenamiento y Comunicaciones",0.0,2021-12-01
+2021-12,BBVA,Intermediación Financiera,1811652.75,2021-12-01
+2021-12,Comercio,Intermediación Financiera,0.31,2021-12-01
+2021-12,BCP,Intermediación Financiera,5184830.82,2021-12-01
+2021-12,Pichincha,Intermediación Financiera,265587.65,2021-12-01
+2021-12,BanBif,Intermediación Financiera,580462.53,2021-12-01
+2021-12,Scotiabank,Intermediación Financiera,1479641.11,2021-12-01
+2021-12,Citibank,Intermediación Financiera,177726.88,2021-12-01
+2021-12,Interbank,Intermediación Financiera,822950.31,2021-12-01
+2021-12,Mibanco,Intermediación Financiera,10883.48,2021-12-01
+2021-12,GNB,Intermediación Financiera,281948.43,2021-12-01
+2021-12,Falabella,Intermediación Financiera,0.0,2021-12-01
+2021-12,Santander,Intermediación Financiera,215118.16,2021-12-01
+2021-12,Ripley,Intermediación Financiera,0.0,2021-12-01
+2021-12,Alfin Banco,Intermediación Financiera,0.0,2021-12-01
+2021-12,ICBC,Intermediación Financiera,108209.95,2021-12-01
+2021-12,Bank of China,Intermediación Financiera,0.0,2021-12-01
+2021-12,BBVA,"Actividades Inmobiliarias, Empresariales y de Alquiler",4069603.1,2021-12-01
+2021-12,Comercio,"Actividades Inmobiliarias, Empresariales y de Alquiler",47005.91,2021-12-01
+2021-12,BCP,"Actividades Inmobiliarias, Empresariales y de Alquiler",10564123.35,2021-12-01
+2021-12,Pichincha,"Actividades Inmobiliarias, Empresariales y de Alquiler",465387.01,2021-12-01
+2021-12,BanBif,"Actividades Inmobiliarias, Empresariales y de Alquiler",1110155.9,2021-12-01
+2021-12,Scotiabank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4176109.25,2021-12-01
+2021-12,Citibank,"Actividades Inmobiliarias, Empresariales y de Alquiler",26931.7,2021-12-01
+2021-12,Interbank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4582840.5,2021-12-01
+2021-12,Mibanco,"Actividades Inmobiliarias, Empresariales y de Alquiler",1061716.77,2021-12-01
+2021-12,GNB,"Actividades Inmobiliarias, Empresariales y de Alquiler",68819.67,2021-12-01
+2021-12,Falabella,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2021-12-01
+2021-12,Santander,"Actividades Inmobiliarias, Empresariales y de Alquiler",1008399.22,2021-12-01
+2021-12,Ripley,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2021-12-01
+2021-12,Alfin Banco,"Actividades Inmobiliarias, Empresariales y de Alquiler",5096.02,2021-12-01
+2021-12,ICBC,"Actividades Inmobiliarias, Empresariales y de Alquiler",593.86,2021-12-01
+2021-12,Bank of China,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2021-12-01
+2021-12,BBVA,Administración Pública y Defensa,185705.1,2021-12-01
+2021-12,Comercio,Administración Pública y Defensa,1000.08,2021-12-01
+2021-12,BCP,Administración Pública y Defensa,143570.37,2021-12-01
+2021-12,Pichincha,Administración Pública y Defensa,10015.38,2021-12-01
+2021-12,BanBif,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Scotiabank,Administración Pública y Defensa,115058.87,2021-12-01
+2021-12,Citibank,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Interbank,Administración Pública y Defensa,119316.87,2021-12-01
+2021-12,Mibanco,Administración Pública y Defensa,4753.0,2021-12-01
+2021-12,GNB,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Falabella,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Santander,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Ripley,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Alfin Banco,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,ICBC,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,Bank of China,Administración Pública y Defensa,0.0,2021-12-01
+2021-12,BBVA,Enseñanza,716825.97,2021-12-01
+2021-12,Comercio,Enseñanza,9595.47,2021-12-01
+2021-12,BCP,Enseñanza,1816697.16,2021-12-01
+2021-12,Pichincha,Enseñanza,1942.74,2021-12-01
+2021-12,BanBif,Enseñanza,283665.85,2021-12-01
+2021-12,Scotiabank,Enseñanza,1159798.74,2021-12-01
+2021-12,Citibank,Enseñanza,0.0,2021-12-01
+2021-12,Interbank,Enseñanza,222656.72,2021-12-01
+2021-12,Mibanco,Enseñanza,56947.58,2021-12-01
+2021-12,GNB,Enseñanza,0.0,2021-12-01
+2021-12,Falabella,Enseñanza,0.0,2021-12-01
+2021-12,Santander,Enseñanza,114793.63,2021-12-01
+2021-12,Ripley,Enseñanza,0.0,2021-12-01
+2021-12,Alfin Banco,Enseñanza,0.0,2021-12-01
+2021-12,ICBC,Enseñanza,0.0,2021-12-01
+2021-12,Bank of China,Enseñanza,0.0,2021-12-01
+2021-12,BBVA,Servicios Sociales y Salud,762527.57,2021-12-01
+2021-12,Comercio,Servicios Sociales y Salud,4326.31,2021-12-01
+2021-12,BCP,Servicios Sociales y Salud,668076.11,2021-12-01
+2021-12,Pichincha,Servicios Sociales y Salud,25099.68,2021-12-01
+2021-12,BanBif,Servicios Sociales y Salud,41030.98,2021-12-01
+2021-12,Scotiabank,Servicios Sociales y Salud,319254.26,2021-12-01
+2021-12,Citibank,Servicios Sociales y Salud,232.49,2021-12-01
+2021-12,Interbank,Servicios Sociales y Salud,62444.33,2021-12-01
+2021-12,Mibanco,Servicios Sociales y Salud,134034.15,2021-12-01
+2021-12,GNB,Servicios Sociales y Salud,1768.04,2021-12-01
+2021-12,Falabella,Servicios Sociales y Salud,0.0,2021-12-01
+2021-12,Santander,Servicios Sociales y Salud,15670.48,2021-12-01
+2021-12,Ripley,Servicios Sociales y Salud,0.0,2021-12-01
+2021-12,Alfin Banco,Servicios Sociales y Salud,0.0,2021-12-01
+2021-12,ICBC,Servicios Sociales y Salud,0.0,2021-12-01
+2021-12,Bank of China,Servicios Sociales y Salud,0.0,2021-12-01
+2021-12,BBVA,Otras Actividades de Servicios Comunitarios,707014.76,2021-12-01
+2021-12,Comercio,Otras Actividades de Servicios Comunitarios,11039.66,2021-12-01
+2021-12,BCP,Otras Actividades de Servicios Comunitarios,8011376.61,2021-12-01
+2021-12,Pichincha,Otras Actividades de Servicios Comunitarios,85976.81,2021-12-01
+2021-12,BanBif,Otras Actividades de Servicios Comunitarios,139334.45,2021-12-01
+2021-12,Scotiabank,Otras Actividades de Servicios Comunitarios,686997.68,2021-12-01
+2021-12,Citibank,Otras Actividades de Servicios Comunitarios,0.0,2021-12-01
+2021-12,Interbank,Otras Actividades de Servicios Comunitarios,271464.43,2021-12-01
+2021-12,Mibanco,Otras Actividades de Servicios Comunitarios,211385.98,2021-12-01
+2021-12,GNB,Otras Actividades de Servicios Comunitarios,64499.53,2021-12-01
+2021-12,Falabella,Otras Actividades de Servicios Comunitarios,84.27,2021-12-01
+2021-12,Santander,Otras Actividades de Servicios Comunitarios,149959.17,2021-12-01
+2021-12,Ripley,Otras Actividades de Servicios Comunitarios,0.0,2021-12-01
+2021-12,Alfin Banco,Otras Actividades de Servicios Comunitarios,0.0,2021-12-01
+2021-12,ICBC,Otras Actividades de Servicios Comunitarios,0.0,2021-12-01
+2021-12,Bank of China,Otras Actividades de Servicios Comunitarios,0.0,2021-12-01
+2021-12,BBVA,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,683962.47,2021-12-01
+2021-12,Comercio,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,3769.24,2021-12-01
+2021-12,BCP,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,10290.51,2021-12-01
+2021-12,Pichincha,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,514413.91,2021-12-01
+2021-12,BanBif,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,160612.69,2021-12-01
+2021-12,Scotiabank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,822521.24,2021-12-01
+2021-12,Citibank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Interbank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,35043.07,2021-12-01
+2021-12,Mibanco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,342.49,2021-12-01
+2021-12,GNB,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Falabella,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Santander,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Ripley,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Alfin Banco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,ICBC,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2021-12,Bank of China,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2021-12-01
+2022-12,BBVA,"Agricultura, Ganadería, Caza y Silvicultura",3144822.97,2022-12-01
+2022-12,Comercio,"Agricultura, Ganadería, Caza y Silvicultura",47187.42,2022-12-01
+2022-12,BCP,"Agricultura, Ganadería, Caza y Silvicultura",3357799.26,2022-12-01
+2022-12,Pichincha,"Agricultura, Ganadería, Caza y Silvicultura",420666.38,2022-12-01
+2022-12,BanBif,"Agricultura, Ganadería, Caza y Silvicultura",1097882.54,2022-12-01
+2022-12,Scotiabank,"Agricultura, Ganadería, Caza y Silvicultura",2055808.98,2022-12-01
+2022-12,Citibank,"Agricultura, Ganadería, Caza y Silvicultura",46.48,2022-12-01
+2022-12,Interbank,"Agricultura, Ganadería, Caza y Silvicultura",1876285.97,2022-12-01
+2022-12,Mibanco,"Agricultura, Ganadería, Caza y Silvicultura",416675.13,2022-12-01
+2022-12,GNB,"Agricultura, Ganadería, Caza y Silvicultura",171683.79,2022-12-01
+2022-12,Falabella,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2022-12-01
+2022-12,Santander,"Agricultura, Ganadería, Caza y Silvicultura",1019192.71,2022-12-01
+2022-12,Ripley,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2022-12-01
+2022-12,Alfin Banco,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2022-12-01
+2022-12,ICBC,"Agricultura, Ganadería, Caza y Silvicultura",193925.7,2022-12-01
+2022-12,Bank of China,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2022-12-01
+2022-12,BCI,"Agricultura, Ganadería, Caza y Silvicultura",47675.0,2022-12-01
+2022-12,BBVA,Pesca,296374.53,2022-12-01
+2022-12,Comercio,Pesca,0.0,2022-12-01
+2022-12,BCP,Pesca,467539.85,2022-12-01
+2022-12,Pichincha,Pesca,21915.26,2022-12-01
+2022-12,BanBif,Pesca,16470.79,2022-12-01
+2022-12,Scotiabank,Pesca,55028.61,2022-12-01
+2022-12,Citibank,Pesca,0.0,2022-12-01
+2022-12,Interbank,Pesca,349369.36,2022-12-01
+2022-12,Mibanco,Pesca,30923.0,2022-12-01
+2022-12,GNB,Pesca,14795.54,2022-12-01
+2022-12,Falabella,Pesca,0.0,2022-12-01
+2022-12,Santander,Pesca,112777.58,2022-12-01
+2022-12,Ripley,Pesca,0.0,2022-12-01
+2022-12,Alfin Banco,Pesca,0.0,2022-12-01
+2022-12,ICBC,Pesca,3051.2,2022-12-01
+2022-12,Bank of China,Pesca,0.0,2022-12-01
+2022-12,BCI,Pesca,0.0,2022-12-01
+2022-12,BBVA,Minería,1136403.3,2022-12-01
+2022-12,Comercio,Minería,1749.62,2022-12-01
+2022-12,BCP,Minería,3933719.94,2022-12-01
+2022-12,Pichincha,Minería,57479.23,2022-12-01
+2022-12,BanBif,Minería,486456.61,2022-12-01
+2022-12,Scotiabank,Minería,1653978.01,2022-12-01
+2022-12,Citibank,Minería,174750.06,2022-12-01
+2022-12,Interbank,Minería,1226021.96,2022-12-01
+2022-12,Mibanco,Minería,6919.03,2022-12-01
+2022-12,GNB,Minería,2288.4,2022-12-01
+2022-12,Falabella,Minería,0.0,2022-12-01
+2022-12,Santander,Minería,355793.98,2022-12-01
+2022-12,Ripley,Minería,0.0,2022-12-01
+2022-12,Alfin Banco,Minería,0.0,2022-12-01
+2022-12,ICBC,Minería,122506.15,2022-12-01
+2022-12,Bank of China,Minería,19070.0,2022-12-01
+2022-12,BCI,Minería,0.0,2022-12-01
+2022-12,BBVA,Industria Manufacturera,10691305.57,2022-12-01
+2022-12,Comercio,Industria Manufacturera,77301.1,2022-12-01
+2022-12,BCP,Industria Manufacturera,20076282.82,2022-12-01
+2022-12,Pichincha,Industria Manufacturera,650455.95,2022-12-01
+2022-12,BanBif,Industria Manufacturera,2136874.28,2022-12-01
+2022-12,Scotiabank,Industria Manufacturera,9908734.08,2022-12-01
+2022-12,Citibank,Industria Manufacturera,828206.51,2022-12-01
+2022-12,Interbank,Industria Manufacturera,4937063.65,2022-12-01
+2022-12,Mibanco,Industria Manufacturera,1105511.01,2022-12-01
+2022-12,GNB,Industria Manufacturera,99665.18,2022-12-01
+2022-12,Falabella,Industria Manufacturera,0.0,2022-12-01
+2022-12,Santander,Industria Manufacturera,981017.16,2022-12-01
+2022-12,Ripley,Industria Manufacturera,0.0,2022-12-01
+2022-12,Alfin Banco,Industria Manufacturera,0.0,2022-12-01
+2022-12,ICBC,Industria Manufacturera,332228.4,2022-12-01
+2022-12,Bank of China,Industria Manufacturera,0.0,2022-12-01
+2022-12,BCI,Industria Manufacturera,0.0,2022-12-01
+2022-12,BBVA,"Electricidad, Gas y Agua",1233807.59,2022-12-01
+2022-12,Comercio,"Electricidad, Gas y Agua",0.15,2022-12-01
+2022-12,BCP,"Electricidad, Gas y Agua",4507801.45,2022-12-01
+2022-12,Pichincha,"Electricidad, Gas y Agua",837.77,2022-12-01
+2022-12,BanBif,"Electricidad, Gas y Agua",118790.18,2022-12-01
+2022-12,Scotiabank,"Electricidad, Gas y Agua",2306613.83,2022-12-01
+2022-12,Citibank,"Electricidad, Gas y Agua",104341.07,2022-12-01
+2022-12,Interbank,"Electricidad, Gas y Agua",922774.83,2022-12-01
+2022-12,Mibanco,"Electricidad, Gas y Agua",12076.95,2022-12-01
+2022-12,GNB,"Electricidad, Gas y Agua",0.0,2022-12-01
+2022-12,Falabella,"Electricidad, Gas y Agua",0.0,2022-12-01
+2022-12,Santander,"Electricidad, Gas y Agua",6343.14,2022-12-01
+2022-12,Ripley,"Electricidad, Gas y Agua",0.0,2022-12-01
+2022-12,Alfin Banco,"Electricidad, Gas y Agua",0.0,2022-12-01
+2022-12,ICBC,"Electricidad, Gas y Agua",88506.46,2022-12-01
+2022-12,Bank of China,"Electricidad, Gas y Agua",20000.0,2022-12-01
+2022-12,BCI,"Electricidad, Gas y Agua",0.0,2022-12-01
+2022-12,BBVA,Construcción,1063506.05,2022-12-01
+2022-12,Comercio,Construcción,15344.0,2022-12-01
+2022-12,BCP,Construcción,2519522.19,2022-12-01
+2022-12,Pichincha,Construcción,204690.25,2022-12-01
+2022-12,BanBif,Construcción,358936.16,2022-12-01
+2022-12,Scotiabank,Construcción,259439.79,2022-12-01
+2022-12,Citibank,Construcción,10611.13,2022-12-01
+2022-12,Interbank,Construcción,461708.97,2022-12-01
+2022-12,Mibanco,Construcción,568017.06,2022-12-01
+2022-12,GNB,Construcción,85527.71,2022-12-01
+2022-12,Falabella,Construcción,0.0,2022-12-01
+2022-12,Santander,Construcción,240890.26,2022-12-01
+2022-12,Ripley,Construcción,0.0,2022-12-01
+2022-12,Alfin Banco,Construcción,0.0,2022-12-01
+2022-12,ICBC,Construcción,0.0,2022-12-01
+2022-12,Bank of China,Construcción,0.0,2022-12-01
+2022-12,BCI,Construcción,0.0,2022-12-01
+2022-12,BBVA,Comercio,13821173.28,2022-12-01
+2022-12,Comercio,Comercio,52237.36,2022-12-01
+2022-12,BCP,Comercio,19167544.52,2022-12-01
+2022-12,Pichincha,Comercio,1362009.63,2022-12-01
+2022-12,BanBif,Comercio,1843781.9,2022-12-01
+2022-12,Scotiabank,Comercio,8502012.1,2022-12-01
+2022-12,Citibank,Comercio,377424.22,2022-12-01
+2022-12,Interbank,Comercio,4398616.44,2022-12-01
+2022-12,Mibanco,Comercio,6869106.8,2022-12-01
+2022-12,GNB,Comercio,253827.8,2022-12-01
+2022-12,Falabella,Comercio,0.0,2022-12-01
+2022-12,Santander,Comercio,1072177.67,2022-12-01
+2022-12,Ripley,Comercio,0.0,2022-12-01
+2022-12,Alfin Banco,Comercio,0.0,2022-12-01
+2022-12,ICBC,Comercio,177227.84,2022-12-01
+2022-12,Bank of China,Comercio,40070.0,2022-12-01
+2022-12,BCI,Comercio,39070.0,2022-12-01
+2022-12,BBVA,Hoteles y Restaurantes,1623100.97,2022-12-01
+2022-12,Comercio,Hoteles y Restaurantes,154.75,2022-12-01
+2022-12,BCP,Hoteles y Restaurantes,1915178.81,2022-12-01
+2022-12,Pichincha,Hoteles y Restaurantes,27274.78,2022-12-01
+2022-12,BanBif,Hoteles y Restaurantes,106008.23,2022-12-01
+2022-12,Scotiabank,Hoteles y Restaurantes,432397.93,2022-12-01
+2022-12,Citibank,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,Interbank,Hoteles y Restaurantes,350934.17,2022-12-01
+2022-12,Mibanco,Hoteles y Restaurantes,854243.19,2022-12-01
+2022-12,GNB,Hoteles y Restaurantes,1853.77,2022-12-01
+2022-12,Falabella,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,Santander,Hoteles y Restaurantes,141681.67,2022-12-01
+2022-12,Ripley,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,Alfin Banco,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,ICBC,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,Bank of China,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,BCI,Hoteles y Restaurantes,0.0,2022-12-01
+2022-12,BBVA,"Transporte, Almacenamiento y Comunicaciones",6299938.96,2022-12-01
+2022-12,Comercio,"Transporte, Almacenamiento y Comunicaciones",17131.24,2022-12-01
+2022-12,BCP,"Transporte, Almacenamiento y Comunicaciones",5064019.75,2022-12-01
+2022-12,Pichincha,"Transporte, Almacenamiento y Comunicaciones",231384.03,2022-12-01
+2022-12,BanBif,"Transporte, Almacenamiento y Comunicaciones",495313.97,2022-12-01
+2022-12,Scotiabank,"Transporte, Almacenamiento y Comunicaciones",3210963.59,2022-12-01
+2022-12,Citibank,"Transporte, Almacenamiento y Comunicaciones",29861.91,2022-12-01
+2022-12,Interbank,"Transporte, Almacenamiento y Comunicaciones",1017645.52,2022-12-01
+2022-12,Mibanco,"Transporte, Almacenamiento y Comunicaciones",1533915.12,2022-12-01
+2022-12,GNB,"Transporte, Almacenamiento y Comunicaciones",123654.79,2022-12-01
+2022-12,Falabella,"Transporte, Almacenamiento y Comunicaciones",0.0,2022-12-01
+2022-12,Santander,"Transporte, Almacenamiento y Comunicaciones",483484.7,2022-12-01
+2022-12,Ripley,"Transporte, Almacenamiento y Comunicaciones",0.0,2022-12-01
+2022-12,Alfin Banco,"Transporte, Almacenamiento y Comunicaciones",0.0,2022-12-01
+2022-12,ICBC,"Transporte, Almacenamiento y Comunicaciones",3810.27,2022-12-01
+2022-12,Bank of China,"Transporte, Almacenamiento y Comunicaciones",0.0,2022-12-01
+2022-12,BCI,"Transporte, Almacenamiento y Comunicaciones",19070.0,2022-12-01
+2022-12,BBVA,Intermediación Financiera,2278989.72,2022-12-01
+2022-12,Comercio,Intermediación Financiera,3000.0,2022-12-01
+2022-12,BCP,Intermediación Financiera,6099037.54,2022-12-01
+2022-12,Pichincha,Intermediación Financiera,362946.38,2022-12-01
+2022-12,BanBif,Intermediación Financiera,500633.19,2022-12-01
+2022-12,Scotiabank,Intermediación Financiera,1621517.18,2022-12-01
+2022-12,Citibank,Intermediación Financiera,346757.36,2022-12-01
+2022-12,Interbank,Intermediación Financiera,316434.84,2022-12-01
+2022-12,Mibanco,Intermediación Financiera,11122.85,2022-12-01
+2022-12,GNB,Intermediación Financiera,356343.93,2022-12-01
+2022-12,Falabella,Intermediación Financiera,0.0,2022-12-01
+2022-12,Santander,Intermediación Financiera,166493.02,2022-12-01
+2022-12,Ripley,Intermediación Financiera,0.0,2022-12-01
+2022-12,Alfin Banco,Intermediación Financiera,0.0,2022-12-01
+2022-12,ICBC,Intermediación Financiera,248421.96,2022-12-01
+2022-12,Bank of China,Intermediación Financiera,38140.0,2022-12-01
+2022-12,BCI,Intermediación Financiera,51442.0,2022-12-01
+2022-12,BBVA,"Actividades Inmobiliarias, Empresariales y de Alquiler",3809945.09,2022-12-01
+2022-12,Comercio,"Actividades Inmobiliarias, Empresariales y de Alquiler",34590.5,2022-12-01
+2022-12,BCP,"Actividades Inmobiliarias, Empresariales y de Alquiler",8955957.52,2022-12-01
+2022-12,Pichincha,"Actividades Inmobiliarias, Empresariales y de Alquiler",346334.64,2022-12-01
+2022-12,BanBif,"Actividades Inmobiliarias, Empresariales y de Alquiler",1131774.41,2022-12-01
+2022-12,Scotiabank,"Actividades Inmobiliarias, Empresariales y de Alquiler",3302559.07,2022-12-01
+2022-12,Citibank,"Actividades Inmobiliarias, Empresariales y de Alquiler",9871.7,2022-12-01
+2022-12,Interbank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4490850.25,2022-12-01
+2022-12,Mibanco,"Actividades Inmobiliarias, Empresariales y de Alquiler",1135314.77,2022-12-01
+2022-12,GNB,"Actividades Inmobiliarias, Empresariales y de Alquiler",88023.41,2022-12-01
+2022-12,Falabella,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2022-12-01
+2022-12,Santander,"Actividades Inmobiliarias, Empresariales y de Alquiler",1007284.95,2022-12-01
+2022-12,Ripley,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2022-12-01
+2022-12,Alfin Banco,"Actividades Inmobiliarias, Empresariales y de Alquiler",3732.92,2022-12-01
+2022-12,ICBC,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2022-12-01
+2022-12,Bank of China,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2022-12-01
+2022-12,BCI,"Actividades Inmobiliarias, Empresariales y de Alquiler",55550.83,2022-12-01
+2022-12,BBVA,Administración Pública y Defensa,107355.14,2022-12-01
+2022-12,Comercio,Administración Pública y Defensa,859.69,2022-12-01
+2022-12,BCP,Administración Pública y Defensa,117855.19,2022-12-01
+2022-12,Pichincha,Administración Pública y Defensa,3313.58,2022-12-01
+2022-12,BanBif,Administración Pública y Defensa,766.89,2022-12-01
+2022-12,Scotiabank,Administración Pública y Defensa,75119.1,2022-12-01
+2022-12,Citibank,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Interbank,Administración Pública y Defensa,81267.05,2022-12-01
+2022-12,Mibanco,Administración Pública y Defensa,4969.7,2022-12-01
+2022-12,GNB,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Falabella,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Santander,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Ripley,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Alfin Banco,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,ICBC,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,Bank of China,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,BCI,Administración Pública y Defensa,0.0,2022-12-01
+2022-12,BBVA,Enseñanza,615202.21,2022-12-01
+2022-12,Comercio,Enseñanza,5753.65,2022-12-01
+2022-12,BCP,Enseñanza,1631854.43,2022-12-01
+2022-12,Pichincha,Enseñanza,1372.34,2022-12-01
+2022-12,BanBif,Enseñanza,293587.96,2022-12-01
+2022-12,Scotiabank,Enseñanza,1282619.09,2022-12-01
+2022-12,Citibank,Enseñanza,0.0,2022-12-01
+2022-12,Interbank,Enseñanza,191071.6,2022-12-01
+2022-12,Mibanco,Enseñanza,58222.58,2022-12-01
+2022-12,GNB,Enseñanza,0.0,2022-12-01
+2022-12,Falabella,Enseñanza,0.0,2022-12-01
+2022-12,Santander,Enseñanza,125508.06,2022-12-01
+2022-12,Ripley,Enseñanza,0.0,2022-12-01
+2022-12,Alfin Banco,Enseñanza,0.0,2022-12-01
+2022-12,ICBC,Enseñanza,0.0,2022-12-01
+2022-12,Bank of China,Enseñanza,0.0,2022-12-01
+2022-12,BCI,Enseñanza,0.0,2022-12-01
+2022-12,BBVA,Servicios Sociales y Salud,727079.06,2022-12-01
+2022-12,Comercio,Servicios Sociales y Salud,2550.01,2022-12-01
+2022-12,BCP,Servicios Sociales y Salud,638965.82,2022-12-01
+2022-12,Pichincha,Servicios Sociales y Salud,47891.14,2022-12-01
+2022-12,BanBif,Servicios Sociales y Salud,55957.1,2022-12-01
+2022-12,Scotiabank,Servicios Sociales y Salud,306035.27,2022-12-01
+2022-12,Citibank,Servicios Sociales y Salud,57942.05,2022-12-01
+2022-12,Interbank,Servicios Sociales y Salud,102285.88,2022-12-01
+2022-12,Mibanco,Servicios Sociales y Salud,144026.19,2022-12-01
+2022-12,GNB,Servicios Sociales y Salud,829.06,2022-12-01
+2022-12,Falabella,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,Santander,Servicios Sociales y Salud,11466.76,2022-12-01
+2022-12,Ripley,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,Alfin Banco,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,ICBC,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,Bank of China,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,BCI,Servicios Sociales y Salud,0.0,2022-12-01
+2022-12,BBVA,Otras Actividades de Servicios Comunitarios,669280.39,2022-12-01
+2022-12,Comercio,Otras Actividades de Servicios Comunitarios,5185.39,2022-12-01
+2022-12,BCP,Otras Actividades de Servicios Comunitarios,6580878.38,2022-12-01
+2022-12,Pichincha,Otras Actividades de Servicios Comunitarios,53792.76,2022-12-01
+2022-12,BanBif,Otras Actividades de Servicios Comunitarios,112729.65,2022-12-01
+2022-12,Scotiabank,Otras Actividades de Servicios Comunitarios,509569.82,2022-12-01
+2022-12,Citibank,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,Interbank,Otras Actividades de Servicios Comunitarios,212039.75,2022-12-01
+2022-12,Mibanco,Otras Actividades de Servicios Comunitarios,219769.29,2022-12-01
+2022-12,GNB,Otras Actividades de Servicios Comunitarios,57729.36,2022-12-01
+2022-12,Falabella,Otras Actividades de Servicios Comunitarios,1035.28,2022-12-01
+2022-12,Santander,Otras Actividades de Servicios Comunitarios,163057.53,2022-12-01
+2022-12,Ripley,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,Alfin Banco,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,ICBC,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,Bank of China,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,BCI,Otras Actividades de Servicios Comunitarios,0.0,2022-12-01
+2022-12,BBVA,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,834476.53,2022-12-01
+2022-12,Comercio,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,4595.74,2022-12-01
+2022-12,BCP,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,7992.14,2022-12-01
+2022-12,Pichincha,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,537884.24,2022-12-01
+2022-12,BanBif,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,155664.99,2022-12-01
+2022-12,Scotiabank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,736302.96,2022-12-01
+2022-12,Citibank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Interbank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,51226.12,2022-12-01
+2022-12,Mibanco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,259.53,2022-12-01
+2022-12,GNB,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Falabella,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Santander,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Ripley,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Alfin Banco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,ICBC,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,Bank of China,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2022-12,BCI,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2022-12-01
+2023-12,BBVA,"Agricultura, Ganadería, Caza y Silvicultura",2803777.68,2023-12-01
+2023-12,Compartamos,"Agricultura, Ganadería, Caza y Silvicultura",34979.41,2023-12-01
+2023-12,BCP,"Agricultura, Ganadería, Caza y Silvicultura",2862331.31,2023-12-01
+2023-12,Pichincha,"Agricultura, Ganadería, Caza y Silvicultura",314966.16,2023-12-01
+2023-12,BanBif,"Agricultura, Ganadería, Caza y Silvicultura",884864.07,2023-12-01
+2023-12,Scotiabank,"Agricultura, Ganadería, Caza y Silvicultura",1791291.03,2023-12-01
+2023-12,Citibank,"Agricultura, Ganadería, Caza y Silvicultura",77.57,2023-12-01
+2023-12,Interbank,"Agricultura, Ganadería, Caza y Silvicultura",1891218.72,2023-12-01
+2023-12,Mibanco,"Agricultura, Ganadería, Caza y Silvicultura",390919.12,2023-12-01
+2023-12,GNB,"Agricultura, Ganadería, Caza y Silvicultura",146769.08,2023-12-01
+2023-12,Falabella,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2023-12-01
+2023-12,Santander,"Agricultura, Ganadería, Caza y Silvicultura",1110202.59,2023-12-01
+2023-12,Ripley,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2023-12-01
+2023-12,Alfin Banco,"Agricultura, Ganadería, Caza y Silvicultura",6892.12,2023-12-01
+2023-12,ICBC,"Agricultura, Ganadería, Caza y Silvicultura",140345.19,2023-12-01
+2023-12,Bank of China,"Agricultura, Ganadería, Caza y Silvicultura",0.0,2023-12-01
+2023-12,BCI,"Agricultura, Ganadería, Caza y Silvicultura",125693.93,2023-12-01
+2023-12,BBVA,Pesca,260641.54,2023-12-01
+2023-12,Compartamos,Pesca,1539.23,2023-12-01
+2023-12,BCP,Pesca,527996.62,2023-12-01
+2023-12,Pichincha,Pesca,5610.14,2023-12-01
+2023-12,BanBif,Pesca,17664.76,2023-12-01
+2023-12,Scotiabank,Pesca,26817.2,2023-12-01
+2023-12,Citibank,Pesca,0.0,2023-12-01
+2023-12,Interbank,Pesca,538514.81,2023-12-01
+2023-12,Mibanco,Pesca,35821.46,2023-12-01
+2023-12,GNB,Pesca,13876.97,2023-12-01
+2023-12,Falabella,Pesca,0.0,2023-12-01
+2023-12,Santander,Pesca,86954.43,2023-12-01
+2023-12,Ripley,Pesca,0.0,2023-12-01
+2023-12,Alfin Banco,Pesca,0.0,2023-12-01
+2023-12,ICBC,Pesca,0.0,2023-12-01
+2023-12,Bank of China,Pesca,0.0,2023-12-01
+2023-12,BCI,Pesca,0.0,2023-12-01
+2023-12,BBVA,Minería,1466553.37,2023-12-01
+2023-12,Compartamos,Minería,559.38,2023-12-01
+2023-12,BCP,Minería,3647328.93,2023-12-01
+2023-12,Pichincha,Minería,38938.33,2023-12-01
+2023-12,BanBif,Minería,485344.41,2023-12-01
+2023-12,Scotiabank,Minería,1597683.89,2023-12-01
+2023-12,Citibank,Minería,207664.7,2023-12-01
+2023-12,Interbank,Minería,1323046.41,2023-12-01
+2023-12,Mibanco,Minería,5054.94,2023-12-01
+2023-12,GNB,Minería,0.0,2023-12-01
+2023-12,Falabella,Minería,0.0,2023-12-01
+2023-12,Santander,Minería,567862.34,2023-12-01
+2023-12,Ripley,Minería,0.0,2023-12-01
+2023-12,Alfin Banco,Minería,0.0,2023-12-01
+2023-12,ICBC,Minería,155801.71,2023-12-01
+2023-12,Bank of China,Minería,40799.0,2023-12-01
+2023-12,BCI,Minería,49499.78,2023-12-01
+2023-12,BBVA,Industria Manufacturera,10306903.65,2023-12-01
+2023-12,Compartamos,Industria Manufacturera,74738.97,2023-12-01
+2023-12,BCP,Industria Manufacturera,19553476.32,2023-12-01
+2023-12,Pichincha,Industria Manufacturera,405321.52,2023-12-01
+2023-12,BanBif,Industria Manufacturera,2021762.63,2023-12-01
+2023-12,Scotiabank,Industria Manufacturera,7844277.54,2023-12-01
+2023-12,Citibank,Industria Manufacturera,682680.38,2023-12-01
+2023-12,Interbank,Industria Manufacturera,4912880.1,2023-12-01
+2023-12,Mibanco,Industria Manufacturera,1032991.41,2023-12-01
+2023-12,GNB,Industria Manufacturera,234775.66,2023-12-01
+2023-12,Falabella,Industria Manufacturera,0.0,2023-12-01
+2023-12,Santander,Industria Manufacturera,1023260.25,2023-12-01
+2023-12,Ripley,Industria Manufacturera,0.0,2023-12-01
+2023-12,Alfin Banco,Industria Manufacturera,1345.15,2023-12-01
+2023-12,ICBC,Industria Manufacturera,267330.8,2023-12-01
+2023-12,Bank of China,Industria Manufacturera,45254.0,2023-12-01
+2023-12,BCI,Industria Manufacturera,210913.35,2023-12-01
+2023-12,BBVA,"Electricidad, Gas y Agua",788698.64,2023-12-01
+2023-12,Compartamos,"Electricidad, Gas y Agua",0.14,2023-12-01
+2023-12,BCP,"Electricidad, Gas y Agua",4124615.74,2023-12-01
+2023-12,Pichincha,"Electricidad, Gas y Agua",2511.11,2023-12-01
+2023-12,BanBif,"Electricidad, Gas y Agua",271421.13,2023-12-01
+2023-12,Scotiabank,"Electricidad, Gas y Agua",1484562.44,2023-12-01
+2023-12,Citibank,"Electricidad, Gas y Agua",113722.15,2023-12-01
+2023-12,Interbank,"Electricidad, Gas y Agua",935809.85,2023-12-01
+2023-12,Mibanco,"Electricidad, Gas y Agua",11617.19,2023-12-01
+2023-12,GNB,"Electricidad, Gas y Agua",6676.2,2023-12-01
+2023-12,Falabella,"Electricidad, Gas y Agua",0.0,2023-12-01
+2023-12,Santander,"Electricidad, Gas y Agua",65906.75,2023-12-01
+2023-12,Ripley,"Electricidad, Gas y Agua",0.0,2023-12-01
+2023-12,Alfin Banco,"Electricidad, Gas y Agua",1118.1,2023-12-01
+2023-12,ICBC,"Electricidad, Gas y Agua",83489.15,2023-12-01
+2023-12,Bank of China,"Electricidad, Gas y Agua",39545.0,2023-12-01
+2023-12,BCI,"Electricidad, Gas y Agua",48217.0,2023-12-01
+2023-12,BBVA,Construcción,950419.8,2023-12-01
+2023-12,Compartamos,Construcción,6852.91,2023-12-01
+2023-12,BCP,Construcción,2283125.63,2023-12-01
+2023-12,Pichincha,Construcción,152081.59,2023-12-01
+2023-12,BanBif,Construcción,300280.43,2023-12-01
+2023-12,Scotiabank,Construcción,260910.71,2023-12-01
+2023-12,Citibank,Construcción,14908.89,2023-12-01
+2023-12,Interbank,Construcción,447142.14,2023-12-01
+2023-12,Mibanco,Construcción,520328.67,2023-12-01
+2023-12,GNB,Construcción,69491.55,2023-12-01
+2023-12,Falabella,Construcción,0.0,2023-12-01
+2023-12,Santander,Construcción,229676.57,2023-12-01
+2023-12,Ripley,Construcción,0.0,2023-12-01
+2023-12,Alfin Banco,Construcción,365.33,2023-12-01
+2023-12,ICBC,Construcción,0.0,2023-12-01
+2023-12,Bank of China,Construcción,0.0,2023-12-01
+2023-12,BCI,Construcción,11833.36,2023-12-01
+2023-12,BBVA,Comercio,12848384.42,2023-12-01
+2023-12,Compartamos,Comercio,52835.59,2023-12-01
+2023-12,BCP,Comercio,17837958.44,2023-12-01
+2023-12,Pichincha,Comercio,905692.42,2023-12-01
+2023-12,BanBif,Comercio,1834630.4,2023-12-01
+2023-12,Scotiabank,Comercio,7172622.7,2023-12-01
+2023-12,Citibank,Comercio,532053.55,2023-12-01
+2023-12,Interbank,Comercio,3741578.86,2023-12-01
+2023-12,Mibanco,Comercio,6519491.85,2023-12-01
+2023-12,GNB,Comercio,264377.25,2023-12-01
+2023-12,Falabella,Comercio,0.0,2023-12-01
+2023-12,Santander,Comercio,1165356.57,2023-12-01
+2023-12,Ripley,Comercio,0.0,2023-12-01
+2023-12,Alfin Banco,Comercio,258.78,2023-12-01
+2023-12,ICBC,Comercio,132315.24,2023-12-01
+2023-12,Bank of China,Comercio,43254.0,2023-12-01
+2023-12,BCI,Comercio,116017.25,2023-12-01
+2023-12,BBVA,Hoteles y Restaurantes,1469430.94,2023-12-01
+2023-12,Compartamos,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,BCP,Hoteles y Restaurantes,1763195.02,2023-12-01
+2023-12,Pichincha,Hoteles y Restaurantes,14328.65,2023-12-01
+2023-12,BanBif,Hoteles y Restaurantes,111143.4,2023-12-01
+2023-12,Scotiabank,Hoteles y Restaurantes,498180.42,2023-12-01
+2023-12,Citibank,Hoteles y Restaurantes,3050.2,2023-12-01
+2023-12,Interbank,Hoteles y Restaurantes,308116.71,2023-12-01
+2023-12,Mibanco,Hoteles y Restaurantes,838662.7,2023-12-01
+2023-12,GNB,Hoteles y Restaurantes,1753.07,2023-12-01
+2023-12,Falabella,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,Santander,Hoteles y Restaurantes,84835.66,2023-12-01
+2023-12,Ripley,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,Alfin Banco,Hoteles y Restaurantes,6167.15,2023-12-01
+2023-12,ICBC,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,Bank of China,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,BCI,Hoteles y Restaurantes,0.0,2023-12-01
+2023-12,BBVA,"Transporte, Almacenamiento y Comunicaciones",7313152.33,2023-12-01
+2023-12,Compartamos,"Transporte, Almacenamiento y Comunicaciones",18877.16,2023-12-01
+2023-12,BCP,"Transporte, Almacenamiento y Comunicaciones",5808510.53,2023-12-01
+2023-12,Pichincha,"Transporte, Almacenamiento y Comunicaciones",139306.16,2023-12-01
+2023-12,BanBif,"Transporte, Almacenamiento y Comunicaciones",543716.7,2023-12-01
+2023-12,Scotiabank,"Transporte, Almacenamiento y Comunicaciones",2443602.37,2023-12-01
+2023-12,Citibank,"Transporte, Almacenamiento y Comunicaciones",28897.79,2023-12-01
+2023-12,Interbank,"Transporte, Almacenamiento y Comunicaciones",929517.81,2023-12-01
+2023-12,Mibanco,"Transporte, Almacenamiento y Comunicaciones",1396050.63,2023-12-01
+2023-12,GNB,"Transporte, Almacenamiento y Comunicaciones",102587.7,2023-12-01
+2023-12,Falabella,"Transporte, Almacenamiento y Comunicaciones",0.0,2023-12-01
+2023-12,Santander,"Transporte, Almacenamiento y Comunicaciones",487671.63,2023-12-01
+2023-12,Ripley,"Transporte, Almacenamiento y Comunicaciones",0.0,2023-12-01
+2023-12,Alfin Banco,"Transporte, Almacenamiento y Comunicaciones",8752.93,2023-12-01
+2023-12,ICBC,"Transporte, Almacenamiento y Comunicaciones",2579.64,2023-12-01
+2023-12,Bank of China,"Transporte, Almacenamiento y Comunicaciones",0.0,2023-12-01
+2023-12,BCI,"Transporte, Almacenamiento y Comunicaciones",20902.61,2023-12-01
+2023-12,BBVA,Intermediación Financiera,2335154.32,2023-12-01
+2023-12,Compartamos,Intermediación Financiera,6312.1,2023-12-01
+2023-12,BCP,Intermediación Financiera,3764954.6,2023-12-01
+2023-12,Pichincha,Intermediación Financiera,290667.39,2023-12-01
+2023-12,BanBif,Intermediación Financiera,512143.19,2023-12-01
+2023-12,Scotiabank,Intermediación Financiera,1219169.77,2023-12-01
+2023-12,Citibank,Intermediación Financiera,333743.24,2023-12-01
+2023-12,Interbank,Intermediación Financiera,123143.31,2023-12-01
+2023-12,Mibanco,Intermediación Financiera,10043.09,2023-12-01
+2023-12,GNB,Intermediación Financiera,463141.48,2023-12-01
+2023-12,Falabella,Intermediación Financiera,0.0,2023-12-01
+2023-12,Santander,Intermediación Financiera,158837.7,2023-12-01
+2023-12,Ripley,Intermediación Financiera,0.0,2023-12-01
+2023-12,Alfin Banco,Intermediación Financiera,22004.1,2023-12-01
+2023-12,ICBC,Intermediación Financiera,252382.01,2023-12-01
+2023-12,Bank of China,Intermediación Financiera,37090.0,2023-12-01
+2023-12,BCI,Intermediación Financiera,207125.75,2023-12-01
+2023-12,BBVA,"Actividades Inmobiliarias, Empresariales y de Alquiler",3745359.85,2023-12-01
+2023-12,Compartamos,"Actividades Inmobiliarias, Empresariales y de Alquiler",19256.92,2023-12-01
+2023-12,BCP,"Actividades Inmobiliarias, Empresariales y de Alquiler",8090219.07,2023-12-01
+2023-12,Pichincha,"Actividades Inmobiliarias, Empresariales y de Alquiler",285761.8,2023-12-01
+2023-12,BanBif,"Actividades Inmobiliarias, Empresariales y de Alquiler",1201606.2,2023-12-01
+2023-12,Scotiabank,"Actividades Inmobiliarias, Empresariales y de Alquiler",3299700.66,2023-12-01
+2023-12,Citibank,"Actividades Inmobiliarias, Empresariales y de Alquiler",19287.77,2023-12-01
+2023-12,Interbank,"Actividades Inmobiliarias, Empresariales y de Alquiler",4937953.87,2023-12-01
+2023-12,Mibanco,"Actividades Inmobiliarias, Empresariales y de Alquiler",1097309.5,2023-12-01
+2023-12,GNB,"Actividades Inmobiliarias, Empresariales y de Alquiler",92965.42,2023-12-01
+2023-12,Falabella,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2023-12-01
+2023-12,Santander,"Actividades Inmobiliarias, Empresariales y de Alquiler",1069731.41,2023-12-01
+2023-12,Ripley,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2023-12-01
+2023-12,Alfin Banco,"Actividades Inmobiliarias, Empresariales y de Alquiler",16973.24,2023-12-01
+2023-12,ICBC,"Actividades Inmobiliarias, Empresariales y de Alquiler",11069.45,2023-12-01
+2023-12,Bank of China,"Actividades Inmobiliarias, Empresariales y de Alquiler",0.0,2023-12-01
+2023-12,BCI,"Actividades Inmobiliarias, Empresariales y de Alquiler",78259.64,2023-12-01
+2023-12,BBVA,Administración Pública y Defensa,56450.18,2023-12-01
+2023-12,Compartamos,Administración Pública y Defensa,438.28,2023-12-01
+2023-12,BCP,Administración Pública y Defensa,81874.53,2023-12-01
+2023-12,Pichincha,Administración Pública y Defensa,3318.28,2023-12-01
+2023-12,BanBif,Administración Pública y Defensa,1219.09,2023-12-01
+2023-12,Scotiabank,Administración Pública y Defensa,56119.12,2023-12-01
+2023-12,Citibank,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Interbank,Administración Pública y Defensa,42685.51,2023-12-01
+2023-12,Mibanco,Administración Pública y Defensa,4743.23,2023-12-01
+2023-12,GNB,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Falabella,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Santander,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Ripley,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Alfin Banco,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,ICBC,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,Bank of China,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,BCI,Administración Pública y Defensa,0.0,2023-12-01
+2023-12,BBVA,Enseñanza,554116.89,2023-12-01
+2023-12,Compartamos,Enseñanza,16590.12,2023-12-01
+2023-12,BCP,Enseñanza,1459329.84,2023-12-01
+2023-12,Pichincha,Enseñanza,11406.65,2023-12-01
+2023-12,BanBif,Enseñanza,305101.49,2023-12-01
+2023-12,Scotiabank,Enseñanza,1314461.45,2023-12-01
+2023-12,Citibank,Enseñanza,0.0,2023-12-01
+2023-12,Interbank,Enseñanza,150130.9,2023-12-01
+2023-12,Mibanco,Enseñanza,54548.04,2023-12-01
+2023-12,GNB,Enseñanza,0.0,2023-12-01
+2023-12,Falabella,Enseñanza,0.0,2023-12-01
+2023-12,Santander,Enseñanza,193702.51,2023-12-01
+2023-12,Ripley,Enseñanza,0.0,2023-12-01
+2023-12,Alfin Banco,Enseñanza,4.67,2023-12-01
+2023-12,ICBC,Enseñanza,0.0,2023-12-01
+2023-12,Bank of China,Enseñanza,0.0,2023-12-01
+2023-12,BCI,Enseñanza,60000.0,2023-12-01
+2023-12,BBVA,Servicios Sociales y Salud,702184.25,2023-12-01
+2023-12,Compartamos,Servicios Sociales y Salud,965.75,2023-12-01
+2023-12,BCP,Servicios Sociales y Salud,660191.86,2023-12-01
+2023-12,Pichincha,Servicios Sociales y Salud,34959.59,2023-12-01
+2023-12,BanBif,Servicios Sociales y Salud,76781.13,2023-12-01
+2023-12,Scotiabank,Servicios Sociales y Salud,379370.36,2023-12-01
+2023-12,Citibank,Servicios Sociales y Salud,30000.0,2023-12-01
+2023-12,Interbank,Servicios Sociales y Salud,90472.07,2023-12-01
+2023-12,Mibanco,Servicios Sociales y Salud,138107.24,2023-12-01
+2023-12,GNB,Servicios Sociales y Salud,1176.97,2023-12-01
+2023-12,Falabella,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,Santander,Servicios Sociales y Salud,10113.73,2023-12-01
+2023-12,Ripley,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,Alfin Banco,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,ICBC,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,Bank of China,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,BCI,Servicios Sociales y Salud,0.0,2023-12-01
+2023-12,BBVA,Otras Actividades de Servicios Comunitarios,568943.96,2023-12-01
+2023-12,Compartamos,Otras Actividades de Servicios Comunitarios,6348.54,2023-12-01
+2023-12,BCP,Otras Actividades de Servicios Comunitarios,6866458.81,2023-12-01
+2023-12,Pichincha,Otras Actividades de Servicios Comunitarios,38663.21,2023-12-01
+2023-12,BanBif,Otras Actividades de Servicios Comunitarios,85365.69,2023-12-01
+2023-12,Scotiabank,Otras Actividades de Servicios Comunitarios,445963.67,2023-12-01
+2023-12,Citibank,Otras Actividades de Servicios Comunitarios,0.0,2023-12-01
+2023-12,Interbank,Otras Actividades de Servicios Comunitarios,186111.9,2023-12-01
+2023-12,Mibanco,Otras Actividades de Servicios Comunitarios,215643.45,2023-12-01
+2023-12,GNB,Otras Actividades de Servicios Comunitarios,52821.89,2023-12-01
+2023-12,Falabella,Otras Actividades de Servicios Comunitarios,3482.57,2023-12-01
+2023-12,Santander,Otras Actividades de Servicios Comunitarios,162023.57,2023-12-01
+2023-12,Ripley,Otras Actividades de Servicios Comunitarios,0.0,2023-12-01
+2023-12,Alfin Banco,Otras Actividades de Servicios Comunitarios,15.69,2023-12-01
+2023-12,ICBC,Otras Actividades de Servicios Comunitarios,0.0,2023-12-01
+2023-12,Bank of China,Otras Actividades de Servicios Comunitarios,0.0,2023-12-01
+2023-12,BCI,Otras Actividades de Servicios Comunitarios,0.0,2023-12-01
+2023-12,BBVA,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,904644.38,2023-12-01
+2023-12,Compartamos,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,24950.32,2023-12-01
+2023-12,BCP,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,6991.22,2023-12-01
+2023-12,Pichincha,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,245253.08,2023-12-01
+2023-12,BanBif,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,182198.75,2023-12-01
+2023-12,Scotiabank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,653021.65,2023-12-01
+2023-12,Citibank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,48.22,2023-12-01
+2023-12,Interbank,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,32366.72,2023-12-01
+2023-12,Mibanco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,200.99,2023-12-01
+2023-12,GNB,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,Falabella,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,Santander,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,Ripley,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,Alfin Banco,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,3628.98,2023-12-01
+2023-12,ICBC,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,Bank of China,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2023-12,BCI,Hogares Privados c/Serv. Doméstico y Órganos Extraterritoriales,0.0,2023-12-01
+2024-12,BBVA,"Agricultura, Ganadería, Silvicultura y Pesca",2994547.04,2024-12-01
+2024-12,Compartamos,"Agricultura, Ganadería, Silvicultura y Pesca",32377.75,2024-12-01
+2024-12,BCP,"Agricultura, Ganadería, Silvicultura y Pesca",3389449.8,2024-12-01
+2024-12,Pichincha,"Agricultura, Ganadería, Silvicultura y Pesca",252345.57,2024-12-01
+2024-12,BanBif,"Agricultura, Ganadería, Silvicultura y Pesca",781772.57,2024-12-01
+2024-12,Scotiabank,"Agricultura, Ganadería, Silvicultura y Pesca",1845526.2,2024-12-01
+2024-12,Citibank,"Agricultura, Ganadería, Silvicultura y Pesca",99.33,2024-12-01
+2024-12,Interbank,"Agricultura, Ganadería, Silvicultura y Pesca",2524573.61,2024-12-01
+2024-12,Mibanco,"Agricultura, Ganadería, Silvicultura y Pesca",384732.94,2024-12-01
+2024-12,GNB,"Agricultura, Ganadería, Silvicultura y Pesca",190319.59,2024-12-01
+2024-12,Falabella,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2024-12-01
+2024-12,Santander,"Agricultura, Ganadería, Silvicultura y Pesca",1154855.46,2024-12-01
+2024-12,Ripley,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2024-12-01
+2024-12,Alfin Banco,"Agricultura, Ganadería, Silvicultura y Pesca",21133.2,2024-12-01
+2024-12,ICBC,"Agricultura, Ganadería, Silvicultura y Pesca",181870.14,2024-12-01
+2024-12,Bank of China,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2024-12-01
+2024-12,BCI,"Agricultura, Ganadería, Silvicultura y Pesca",118415.44,2024-12-01
+2024-12,BBVA,Explotación de Minas y Canteras,1377970.33,2024-12-01
+2024-12,Compartamos,Explotación de Minas y Canteras,2848.63,2024-12-01
+2024-12,BCP,Explotación de Minas y Canteras,3589762.63,2024-12-01
+2024-12,Pichincha,Explotación de Minas y Canteras,41303.68,2024-12-01
+2024-12,BanBif,Explotación de Minas y Canteras,586385.22,2024-12-01
+2024-12,Scotiabank,Explotación de Minas y Canteras,1416400.31,2024-12-01
+2024-12,Citibank,Explotación de Minas y Canteras,185394.05,2024-12-01
+2024-12,Interbank,Explotación de Minas y Canteras,1683802.72,2024-12-01
+2024-12,Mibanco,Explotación de Minas y Canteras,4538.08,2024-12-01
+2024-12,GNB,Explotación de Minas y Canteras,1955.83,2024-12-01
+2024-12,Falabella,Explotación de Minas y Canteras,0.0,2024-12-01
+2024-12,Santander,Explotación de Minas y Canteras,522541.82,2024-12-01
+2024-12,Ripley,Explotación de Minas y Canteras,0.0,2024-12-01
+2024-12,Alfin Banco,Explotación de Minas y Canteras,90.0,2024-12-01
+2024-12,ICBC,Explotación de Minas y Canteras,243270.09,2024-12-01
+2024-12,Bank of China,Explotación de Minas y Canteras,41404.0,2024-12-01
+2024-12,BCI,Explotación de Minas y Canteras,149340.17,2024-12-01
+2024-12,BBVA,Industria Manufacturera,10236436.55,2024-12-01
+2024-12,Compartamos,Industria Manufacturera,93203.29,2024-12-01
+2024-12,BCP,Industria Manufacturera,17923117.06,2024-12-01
+2024-12,Pichincha,Industria Manufacturera,624266.53,2024-12-01
+2024-12,BanBif,Industria Manufacturera,2356375.34,2024-12-01
+2024-12,Scotiabank,Industria Manufacturera,6755663.48,2024-12-01
+2024-12,Citibank,Industria Manufacturera,426820.33,2024-12-01
+2024-12,Interbank,Industria Manufacturera,5879762.4,2024-12-01
+2024-12,Mibanco,Industria Manufacturera,871357.73,2024-12-01
+2024-12,GNB,Industria Manufacturera,220767.54,2024-12-01
+2024-12,Falabella,Industria Manufacturera,314.81,2024-12-01
+2024-12,Santander,Industria Manufacturera,897225.53,2024-12-01
+2024-12,Ripley,Industria Manufacturera,0.0,2024-12-01
+2024-12,Alfin Banco,Industria Manufacturera,6477.6,2024-12-01
+2024-12,ICBC,Industria Manufacturera,202461.64,2024-12-01
+2024-12,Bank of China,Industria Manufacturera,46584.0,2024-12-01
+2024-12,BCI,Industria Manufacturera,279361.18,2024-12-01
+2024-12,BBVA,"Electricidad, Gas, Vapor y Aire Acondicionado",1169905.27,2024-12-01
+2024-12,Compartamos,"Electricidad, Gas, Vapor y Aire Acondicionado",86.47,2024-12-01
+2024-12,BCP,"Electricidad, Gas, Vapor y Aire Acondicionado",5235838.28,2024-12-01
+2024-12,Pichincha,"Electricidad, Gas, Vapor y Aire Acondicionado",140736.16,2024-12-01
+2024-12,BanBif,"Electricidad, Gas, Vapor y Aire Acondicionado",333942.78,2024-12-01
+2024-12,Scotiabank,"Electricidad, Gas, Vapor y Aire Acondicionado",1316967.24,2024-12-01
+2024-12,Citibank,"Electricidad, Gas, Vapor y Aire Acondicionado",262162.46,2024-12-01
+2024-12,Interbank,"Electricidad, Gas, Vapor y Aire Acondicionado",829597.91,2024-12-01
+2024-12,Mibanco,"Electricidad, Gas, Vapor y Aire Acondicionado",2257.58,2024-12-01
+2024-12,GNB,"Electricidad, Gas, Vapor y Aire Acondicionado",9410.0,2024-12-01
+2024-12,Falabella,"Electricidad, Gas, Vapor y Aire Acondicionado",0.0,2024-12-01
+2024-12,Santander,"Electricidad, Gas, Vapor y Aire Acondicionado",1270.69,2024-12-01
+2024-12,Ripley,"Electricidad, Gas, Vapor y Aire Acondicionado",0.0,2024-12-01
+2024-12,Alfin Banco,"Electricidad, Gas, Vapor y Aire Acondicionado",25028.0,2024-12-01
+2024-12,ICBC,"Electricidad, Gas, Vapor y Aire Acondicionado",95254.92,2024-12-01
+2024-12,Bank of China,"Electricidad, Gas, Vapor y Aire Acondicionado",82820.0,2024-12-01
+2024-12,BCI,"Electricidad, Gas, Vapor y Aire Acondicionado",3732.0,2024-12-01
+2024-12,BBVA,"Agua, Gestión de Desechos y Descontaminación",186701.94,2024-12-01
+2024-12,Compartamos,"Agua, Gestión de Desechos y Descontaminación",0.1,2024-12-01
+2024-12,BCP,"Agua, Gestión de Desechos y Descontaminación",82206.68,2024-12-01
+2024-12,Pichincha,"Agua, Gestión de Desechos y Descontaminación",417.76,2024-12-01
+2024-12,BanBif,"Agua, Gestión de Desechos y Descontaminación",1612.87,2024-12-01
+2024-12,Scotiabank,"Agua, Gestión de Desechos y Descontaminación",135699.09,2024-12-01
+2024-12,Citibank,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Interbank,"Agua, Gestión de Desechos y Descontaminación",6091.95,2024-12-01
+2024-12,Mibanco,"Agua, Gestión de Desechos y Descontaminación",31399.2,2024-12-01
+2024-12,GNB,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Falabella,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Santander,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Ripley,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Alfin Banco,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,ICBC,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,Bank of China,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,BCI,"Agua, Gestión de Desechos y Descontaminación",0.0,2024-12-01
+2024-12,BBVA,Construcción,835926.37,2024-12-01
+2024-12,Compartamos,Construcción,4345.1,2024-12-01
+2024-12,BCP,Construcción,2007566.6,2024-12-01
+2024-12,Pichincha,Construcción,101232.58,2024-12-01
+2024-12,BanBif,Construcción,261189.08,2024-12-01
+2024-12,Scotiabank,Construcción,189128.07,2024-12-01
+2024-12,Citibank,Construcción,13191.07,2024-12-01
+2024-12,Interbank,Construcción,279469.92,2024-12-01
+2024-12,Mibanco,Construcción,458896.67,2024-12-01
+2024-12,GNB,Construcción,52710.99,2024-12-01
+2024-12,Falabella,Construcción,0.0,2024-12-01
+2024-12,Santander,Construcción,235982.04,2024-12-01
+2024-12,Ripley,Construcción,0.0,2024-12-01
+2024-12,Alfin Banco,Construcción,36678.32,2024-12-01
+2024-12,ICBC,Construcción,0.0,2024-12-01
+2024-12,Bank of China,Construcción,0.0,2024-12-01
+2024-12,BCI,Construcción,15000.0,2024-12-01
+2024-12,BBVA,Comercio,13007515.16,2024-12-01
+2024-12,Compartamos,Comercio,57423.07,2024-12-01
+2024-12,BCP,Comercio,20109190.36,2024-12-01
+2024-12,Pichincha,Comercio,908802.18,2024-12-01
+2024-12,BanBif,Comercio,1605476.34,2024-12-01
+2024-12,Scotiabank,Comercio,6944390.87,2024-12-01
+2024-12,Citibank,Comercio,482576.52,2024-12-01
+2024-12,Interbank,Comercio,4856452.42,2024-12-01
+2024-12,Mibanco,Comercio,5978562.44,2024-12-01
+2024-12,GNB,Comercio,470382.31,2024-12-01
+2024-12,Falabella,Comercio,3670.97,2024-12-01
+2024-12,Santander,Comercio,1298769.75,2024-12-01
+2024-12,Ripley,Comercio,0.0,2024-12-01
+2024-12,Alfin Banco,Comercio,20035.14,2024-12-01
+2024-12,ICBC,Comercio,96472.9,2024-12-01
+2024-12,Bank of China,Comercio,42584.0,2024-12-01
+2024-12,BCI,Comercio,223151.4,2024-12-01
+2024-12,BBVA,Transporte y Almacenamiento,5972486.17,2024-12-01
+2024-12,Compartamos,Transporte y Almacenamiento,19298.07,2024-12-01
+2024-12,BCP,Transporte y Almacenamiento,6119142.35,2024-12-01
+2024-12,Pichincha,Transporte y Almacenamiento,95303.74,2024-12-01
+2024-12,BanBif,Transporte y Almacenamiento,636326.13,2024-12-01
+2024-12,Scotiabank,Transporte y Almacenamiento,1742896.06,2024-12-01
+2024-12,Citibank,Transporte y Almacenamiento,0.0,2024-12-01
+2024-12,Interbank,Transporte y Almacenamiento,1365038.39,2024-12-01
+2024-12,Mibanco,Transporte y Almacenamiento,1256022.32,2024-12-01
+2024-12,GNB,Transporte y Almacenamiento,91527.14,2024-12-01
+2024-12,Falabella,Transporte y Almacenamiento,269.68,2024-12-01
+2024-12,Santander,Transporte y Almacenamiento,383013.58,2024-12-01
+2024-12,Ripley,Transporte y Almacenamiento,0.0,2024-12-01
+2024-12,Alfin Banco,Transporte y Almacenamiento,6058.23,2024-12-01
+2024-12,ICBC,Transporte y Almacenamiento,6311.03,2024-12-01
+2024-12,Bank of China,Transporte y Almacenamiento,0.0,2024-12-01
+2024-12,BCI,Transporte y Almacenamiento,14428.67,2024-12-01
+2024-12,BBVA,Alojamiento y Servicios de Comidas,699005.29,2024-12-01
+2024-12,Compartamos,Alojamiento y Servicios de Comidas,159.72,2024-12-01
+2024-12,BCP,Alojamiento y Servicios de Comidas,1955234.94,2024-12-01
+2024-12,Pichincha,Alojamiento y Servicios de Comidas,10014.3,2024-12-01
+2024-12,BanBif,Alojamiento y Servicios de Comidas,83202.47,2024-12-01
+2024-12,Scotiabank,Alojamiento y Servicios de Comidas,597708.34,2024-12-01
+2024-12,Citibank,Alojamiento y Servicios de Comidas,1511.69,2024-12-01
+2024-12,Interbank,Alojamiento y Servicios de Comidas,433516.62,2024-12-01
+2024-12,Mibanco,Alojamiento y Servicios de Comidas,800718.55,2024-12-01
+2024-12,GNB,Alojamiento y Servicios de Comidas,1900.0,2024-12-01
+2024-12,Falabella,Alojamiento y Servicios de Comidas,0.0,2024-12-01
+2024-12,Santander,Alojamiento y Servicios de Comidas,50501.61,2024-12-01
+2024-12,Ripley,Alojamiento y Servicios de Comidas,0.0,2024-12-01
+2024-12,Alfin Banco,Alojamiento y Servicios de Comidas,6470.95,2024-12-01
+2024-12,ICBC,Alojamiento y Servicios de Comidas,0.0,2024-12-01
+2024-12,Bank of China,Alojamiento y Servicios de Comidas,0.0,2024-12-01
+2024-12,BCI,Alojamiento y Servicios de Comidas,0.0,2024-12-01
+2024-12,BBVA,Información y Comunicaciones,1724609.96,2024-12-01
+2024-12,Compartamos,Información y Comunicaciones,1931.38,2024-12-01
+2024-12,BCP,Información y Comunicaciones,2422297.17,2024-12-01
+2024-12,Pichincha,Información y Comunicaciones,18173.42,2024-12-01
+2024-12,BanBif,Información y Comunicaciones,135801.14,2024-12-01
+2024-12,Scotiabank,Información y Comunicaciones,1074237.46,2024-12-01
+2024-12,Citibank,Información y Comunicaciones,10107.13,2024-12-01
+2024-12,Interbank,Información y Comunicaciones,1078475.79,2024-12-01
+2024-12,Mibanco,Información y Comunicaciones,46257.47,2024-12-01
+2024-12,GNB,Información y Comunicaciones,1901.4,2024-12-01
+2024-12,Falabella,Información y Comunicaciones,105.17,2024-12-01
+2024-12,Santander,Información y Comunicaciones,37996.89,2024-12-01
+2024-12,Ripley,Información y Comunicaciones,0.0,2024-12-01
+2024-12,Alfin Banco,Información y Comunicaciones,253.26,2024-12-01
+2024-12,ICBC,Información y Comunicaciones,0.0,2024-12-01
+2024-12,Bank of China,Información y Comunicaciones,0.0,2024-12-01
+2024-12,BCI,Información y Comunicaciones,25000.0,2024-12-01
+2024-12,BBVA,Actividades Financieras y de Seguros,2091366.81,2024-12-01
+2024-12,Compartamos,Actividades Financieras y de Seguros,25387.6,2024-12-01
+2024-12,BCP,Actividades Financieras y de Seguros,5077208.18,2024-12-01
+2024-12,Pichincha,Actividades Financieras y de Seguros,408181.21,2024-12-01
+2024-12,BanBif,Actividades Financieras y de Seguros,348797.52,2024-12-01
+2024-12,Scotiabank,Actividades Financieras y de Seguros,1140983.04,2024-12-01
+2024-12,Citibank,Actividades Financieras y de Seguros,118952.51,2024-12-01
+2024-12,Interbank,Actividades Financieras y de Seguros,760254.08,2024-12-01
+2024-12,Mibanco,Actividades Financieras y de Seguros,12046.05,2024-12-01
+2024-12,GNB,Actividades Financieras y de Seguros,620955.95,2024-12-01
+2024-12,Falabella,Actividades Financieras y de Seguros,0.0,2024-12-01
+2024-12,Santander,Actividades Financieras y de Seguros,120096.29,2024-12-01
+2024-12,Ripley,Actividades Financieras y de Seguros,0.0,2024-12-01
+2024-12,Alfin Banco,Actividades Financieras y de Seguros,37733.16,2024-12-01
+2024-12,ICBC,Actividades Financieras y de Seguros,148640.0,2024-12-01
+2024-12,Bank of China,Actividades Financieras y de Seguros,0.0,2024-12-01
+2024-12,BCI,Actividades Financieras y de Seguros,424500.49,2024-12-01
+2024-12,BBVA,Actividades Inmobiliarias,1867920.22,2024-12-01
+2024-12,Compartamos,Actividades Inmobiliarias,3265.24,2024-12-01
+2024-12,BCP,Actividades Inmobiliarias,3660238.52,2024-12-01
+2024-12,Pichincha,Actividades Inmobiliarias,121771.72,2024-12-01
+2024-12,BanBif,Actividades Inmobiliarias,919900.05,2024-12-01
+2024-12,Scotiabank,Actividades Inmobiliarias,1633398.12,2024-12-01
+2024-12,Citibank,Actividades Inmobiliarias,0.0,2024-12-01
+2024-12,Interbank,Actividades Inmobiliarias,1498885.58,2024-12-01
+2024-12,Mibanco,Actividades Inmobiliarias,328268.73,2024-12-01
+2024-12,GNB,Actividades Inmobiliarias,39939.52,2024-12-01
+2024-12,Falabella,Actividades Inmobiliarias,0.0,2024-12-01
+2024-12,Santander,Actividades Inmobiliarias,238295.44,2024-12-01
+2024-12,Ripley,Actividades Inmobiliarias,0.0,2024-12-01
+2024-12,Alfin Banco,Actividades Inmobiliarias,0.0,2024-12-01
+2024-12,ICBC,Actividades Inmobiliarias,22837.1,2024-12-01
+2024-12,Bank of China,Actividades Inmobiliarias,0.0,2024-12-01
+2024-12,BCI,Actividades Inmobiliarias,87162.0,2024-12-01
+2024-12,BBVA,"Actividades Profesionales, Científicas y Técnicas",973613.42,2024-12-01
+2024-12,Compartamos,"Actividades Profesionales, Científicas y Técnicas",2147.29,2024-12-01
+2024-12,BCP,"Actividades Profesionales, Científicas y Técnicas",1543948.01,2024-12-01
+2024-12,Pichincha,"Actividades Profesionales, Científicas y Técnicas",35449.38,2024-12-01
+2024-12,BanBif,"Actividades Profesionales, Científicas y Técnicas",152135.07,2024-12-01
+2024-12,Scotiabank,"Actividades Profesionales, Científicas y Técnicas",485505.45,2024-12-01
+2024-12,Citibank,"Actividades Profesionales, Científicas y Técnicas",11247.69,2024-12-01
+2024-12,Interbank,"Actividades Profesionales, Científicas y Técnicas",1177744.39,2024-12-01
+2024-12,Mibanco,"Actividades Profesionales, Científicas y Técnicas",265304.69,2024-12-01
+2024-12,GNB,"Actividades Profesionales, Científicas y Técnicas",12117.95,2024-12-01
+2024-12,Falabella,"Actividades Profesionales, Científicas y Técnicas",76.07,2024-12-01
+2024-12,Santander,"Actividades Profesionales, Científicas y Técnicas",309008.83,2024-12-01
+2024-12,Ripley,"Actividades Profesionales, Científicas y Técnicas",0.0,2024-12-01
+2024-12,Alfin Banco,"Actividades Profesionales, Científicas y Técnicas",1325.58,2024-12-01
+2024-12,ICBC,"Actividades Profesionales, Científicas y Técnicas",3411.92,2024-12-01
+2024-12,Bank of China,"Actividades Profesionales, Científicas y Técnicas",0.0,2024-12-01
+2024-12,BCI,"Actividades Profesionales, Científicas y Técnicas",0.0,2024-12-01
+2024-12,BBVA,Actividades de Servicios Administrativos y de Apoyo,877372.18,2024-12-01
+2024-12,Compartamos,Actividades de Servicios Administrativos y de Apoyo,3283.2,2024-12-01
+2024-12,BCP,Actividades de Servicios Administrativos y de Apoyo,1843816.21,2024-12-01
+2024-12,Pichincha,Actividades de Servicios Administrativos y de Apoyo,37967.52,2024-12-01
+2024-12,BanBif,Actividades de Servicios Administrativos y de Apoyo,255990.37,2024-12-01
+2024-12,Scotiabank,Actividades de Servicios Administrativos y de Apoyo,571414.13,2024-12-01
+2024-12,Citibank,Actividades de Servicios Administrativos y de Apoyo,8816.59,2024-12-01
+2024-12,Interbank,Actividades de Servicios Administrativos y de Apoyo,327471.11,2024-12-01
+2024-12,Mibanco,Actividades de Servicios Administrativos y de Apoyo,459468.73,2024-12-01
+2024-12,GNB,Actividades de Servicios Administrativos y de Apoyo,25143.81,2024-12-01
+2024-12,Falabella,Actividades de Servicios Administrativos y de Apoyo,8.71,2024-12-01
+2024-12,Santander,Actividades de Servicios Administrativos y de Apoyo,73082.02,2024-12-01
+2024-12,Ripley,Actividades de Servicios Administrativos y de Apoyo,0.0,2024-12-01
+2024-12,Alfin Banco,Actividades de Servicios Administrativos y de Apoyo,3988.68,2024-12-01
+2024-12,ICBC,Actividades de Servicios Administrativos y de Apoyo,0.0,2024-12-01
+2024-12,Bank of China,Actividades de Servicios Administrativos y de Apoyo,0.0,2024-12-01
+2024-12,BCI,Actividades de Servicios Administrativos y de Apoyo,40475.5,2024-12-01
+2024-12,BBVA,Administración Pública y Defensa,9304.95,2024-12-01
+2024-12,Compartamos,Administración Pública y Defensa,0.07,2024-12-01
+2024-12,BCP,Administración Pública y Defensa,5268.92,2024-12-01
+2024-12,Pichincha,Administración Pública y Defensa,17.9,2024-12-01
+2024-12,BanBif,Administración Pública y Defensa,1120.51,2024-12-01
+2024-12,Scotiabank,Administración Pública y Defensa,1242.89,2024-12-01
+2024-12,Citibank,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Interbank,Administración Pública y Defensa,5810.5,2024-12-01
+2024-12,Mibanco,Administración Pública y Defensa,4673.45,2024-12-01
+2024-12,GNB,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Falabella,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Santander,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Ripley,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Alfin Banco,Administración Pública y Defensa,12280.3,2024-12-01
+2024-12,ICBC,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,Bank of China,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,BCI,Administración Pública y Defensa,0.0,2024-12-01
+2024-12,BBVA,Enseñanza,706782.57,2024-12-01
+2024-12,Compartamos,Enseñanza,9239.72,2024-12-01
+2024-12,BCP,Enseñanza,1467714.14,2024-12-01
+2024-12,Pichincha,Enseñanza,77069.31,2024-12-01
+2024-12,BanBif,Enseñanza,370062.13,2024-12-01
+2024-12,Scotiabank,Enseñanza,1146143.64,2024-12-01
+2024-12,Citibank,Enseñanza,0.0,2024-12-01
+2024-12,Interbank,Enseñanza,122901.04,2024-12-01
+2024-12,Mibanco,Enseñanza,54876.19,2024-12-01
+2024-12,GNB,Enseñanza,5627.39,2024-12-01
+2024-12,Falabella,Enseñanza,0.0,2024-12-01
+2024-12,Santander,Enseñanza,240809.77,2024-12-01
+2024-12,Ripley,Enseñanza,0.0,2024-12-01
+2024-12,Alfin Banco,Enseñanza,1525.51,2024-12-01
+2024-12,ICBC,Enseñanza,0.0,2024-12-01
+2024-12,Bank of China,Enseñanza,0.0,2024-12-01
+2024-12,BCI,Enseñanza,67600.0,2024-12-01
+2024-12,BBVA,Salud Humana y Asistencia Social,715197.02,2024-12-01
+2024-12,Compartamos,Salud Humana y Asistencia Social,1042.78,2024-12-01
+2024-12,BCP,Salud Humana y Asistencia Social,682064.27,2024-12-01
+2024-12,Pichincha,Salud Humana y Asistencia Social,33332.49,2024-12-01
+2024-12,BanBif,Salud Humana y Asistencia Social,98722.17,2024-12-01
+2024-12,Scotiabank,Salud Humana y Asistencia Social,322995.38,2024-12-01
+2024-12,Citibank,Salud Humana y Asistencia Social,71711.27,2024-12-01
+2024-12,Interbank,Salud Humana y Asistencia Social,243413.99,2024-12-01
+2024-12,Mibanco,Salud Humana y Asistencia Social,115358.69,2024-12-01
+2024-12,GNB,Salud Humana y Asistencia Social,12215.95,2024-12-01
+2024-12,Falabella,Salud Humana y Asistencia Social,0.0,2024-12-01
+2024-12,Santander,Salud Humana y Asistencia Social,10420.08,2024-12-01
+2024-12,Ripley,Salud Humana y Asistencia Social,0.0,2024-12-01
+2024-12,Alfin Banco,Salud Humana y Asistencia Social,523.4,2024-12-01
+2024-12,ICBC,Salud Humana y Asistencia Social,0.0,2024-12-01
+2024-12,Bank of China,Salud Humana y Asistencia Social,0.0,2024-12-01
+2024-12,BCI,Salud Humana y Asistencia Social,0.0,2024-12-01
+2024-12,BBVA,"Act. Artísticas, de Entretenimiento y Recreativas",111838.09,2024-12-01
+2024-12,Compartamos,"Act. Artísticas, de Entretenimiento y Recreativas",1019.48,2024-12-01
+2024-12,BCP,"Act. Artísticas, de Entretenimiento y Recreativas",333297.84,2024-12-01
+2024-12,Pichincha,"Act. Artísticas, de Entretenimiento y Recreativas",3214.55,2024-12-01
+2024-12,BanBif,"Act. Artísticas, de Entretenimiento y Recreativas",26327.55,2024-12-01
+2024-12,Scotiabank,"Act. Artísticas, de Entretenimiento y Recreativas",167532.25,2024-12-01
+2024-12,Citibank,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,Interbank,"Act. Artísticas, de Entretenimiento y Recreativas",55620.26,2024-12-01
+2024-12,Mibanco,"Act. Artísticas, de Entretenimiento y Recreativas",46378.4,2024-12-01
+2024-12,GNB,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,Falabella,"Act. Artísticas, de Entretenimiento y Recreativas",136.08,2024-12-01
+2024-12,Santander,"Act. Artísticas, de Entretenimiento y Recreativas",24300.0,2024-12-01
+2024-12,Ripley,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,Alfin Banco,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,ICBC,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,Bank of China,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,BCI,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2024-12-01
+2024-12,BBVA,Otras Actividades de Servicios,375359.98,2024-12-01
+2024-12,Compartamos,Otras Actividades de Servicios,249.55,2024-12-01
+2024-12,BCP,Otras Actividades de Servicios,1639485.47,2024-12-01
+2024-12,Pichincha,Otras Actividades de Servicios,8860.53,2024-12-01
+2024-12,BanBif,Otras Actividades de Servicios,43009.91,2024-12-01
+2024-12,Scotiabank,Otras Actividades de Servicios,259280.32,2024-12-01
+2024-12,Citibank,Otras Actividades de Servicios,10.21,2024-12-01
+2024-12,Interbank,Otras Actividades de Servicios,90132.08,2024-12-01
+2024-12,Mibanco,Otras Actividades de Servicios,229474.38,2024-12-01
+2024-12,GNB,Otras Actividades de Servicios,120.27,2024-12-01
+2024-12,Falabella,Otras Actividades de Servicios,81.72,2024-12-01
+2024-12,Santander,Otras Actividades de Servicios,0.0,2024-12-01
+2024-12,Ripley,Otras Actividades de Servicios,0.0,2024-12-01
+2024-12,Alfin Banco,Otras Actividades de Servicios,12021.57,2024-12-01
+2024-12,ICBC,Otras Actividades de Servicios,0.0,2024-12-01
+2024-12,Bank of China,Otras Actividades de Servicios,0.0,2024-12-01
+2024-12,BCI,Otras Actividades de Servicios,0.0,2024-12-01
+2024-12,BBVA,Act. Hogares como Empleadores y Órganos extraterritoriales,1382631.23,2024-12-01
+2024-12,Compartamos,Act. Hogares como Empleadores y Órganos extraterritoriales,1381.85,2024-12-01
+2024-12,BCP,Act. Hogares como Empleadores y Órganos extraterritoriales,913.03,2024-12-01
+2024-12,Pichincha,Act. Hogares como Empleadores y Órganos extraterritoriales,3698.76,2024-12-01
+2024-12,BanBif,Act. Hogares como Empleadores y Órganos extraterritoriales,171079.91,2024-12-01
+2024-12,Scotiabank,Act. Hogares como Empleadores y Órganos extraterritoriales,157538.91,2024-12-01
+2024-12,Citibank,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,Interbank,Act. Hogares como Empleadores y Órganos extraterritoriales,703.17,2024-12-01
+2024-12,Mibanco,Act. Hogares como Empleadores y Órganos extraterritoriales,8150.84,2024-12-01
+2024-12,GNB,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,Falabella,Act. Hogares como Empleadores y Órganos extraterritoriales,20.05,2024-12-01
+2024-12,Santander,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,Ripley,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,Alfin Banco,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,ICBC,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,Bank of China,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2024-12,BCI,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2024-12-01
+2025-12,BBVA,"Agricultura, Ganadería, Silvicultura y Pesca",3607738.79,2025-12-01
+2025-12,Compartamos,"Agricultura, Ganadería, Silvicultura y Pesca",33682.26,2025-12-01
+2025-12,BCP,"Agricultura, Ganadería, Silvicultura y Pesca",3968479.06,2025-12-01
+2025-12,Pichincha,"Agricultura, Ganadería, Silvicultura y Pesca",202291.82,2025-12-01
+2025-12,BanBif,"Agricultura, Ganadería, Silvicultura y Pesca",1089493.9,2025-12-01
+2025-12,Scotiabank,"Agricultura, Ganadería, Silvicultura y Pesca",1847632.55,2025-12-01
+2025-12,Citibank,"Agricultura, Ganadería, Silvicultura y Pesca",86.35,2025-12-01
+2025-12,Interbank,"Agricultura, Ganadería, Silvicultura y Pesca",2648040.27,2025-12-01
+2025-12,Mibanco,"Agricultura, Ganadería, Silvicultura y Pesca",410789.87,2025-12-01
+2025-12,GNB,"Agricultura, Ganadería, Silvicultura y Pesca",177870.79,2025-12-01
+2025-12,Falabella,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2025-12-01
+2025-12,Santander,"Agricultura, Ganadería, Silvicultura y Pesca",976346.47,2025-12-01
+2025-12,Ripley,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2025-12-01
+2025-12,Alfin Banco,"Agricultura, Ganadería, Silvicultura y Pesca",40485.88,2025-12-01
+2025-12,ICBC,"Agricultura, Ganadería, Silvicultura y Pesca",130474.39,2025-12-01
+2025-12,Bank of China,"Agricultura, Ganadería, Silvicultura y Pesca",0.0,2025-12-01
+2025-12,BCI,"Agricultura, Ganadería, Silvicultura y Pesca",414069.79,2025-12-01
+2025-12,Compartamos,"Agricultura, Ganadería, Silvicultura y Pesca",282075.41,2025-12-01
+2025-12,Santander,"Agricultura, Ganadería, Silvicultura y Pesca",66.4,2025-12-01
+2025-12,BBVA,Explotación de Minas y Canteras,1570959.71,2025-12-01
+2025-12,Compartamos,Explotación de Minas y Canteras,2686.36,2025-12-01
+2025-12,BCP,Explotación de Minas y Canteras,4685165.96,2025-12-01
+2025-12,Pichincha,Explotación de Minas y Canteras,44171.31,2025-12-01
+2025-12,BanBif,Explotación de Minas y Canteras,485877.41,2025-12-01
+2025-12,Scotiabank,Explotación de Minas y Canteras,978467.27,2025-12-01
+2025-12,Citibank,Explotación de Minas y Canteras,168683.25,2025-12-01
+2025-12,Interbank,Explotación de Minas y Canteras,1333503.73,2025-12-01
+2025-12,Mibanco,Explotación de Minas y Canteras,4072.24,2025-12-01
+2025-12,GNB,Explotación de Minas y Canteras,15284.47,2025-12-01
+2025-12,Falabella,Explotación de Minas y Canteras,0.0,2025-12-01
+2025-12,Santander,Explotación de Minas y Canteras,668060.0,2025-12-01
+2025-12,Ripley,Explotación de Minas y Canteras,0.0,2025-12-01
+2025-12,Alfin Banco,Explotación de Minas y Canteras,2669.13,2025-12-01
+2025-12,ICBC,Explotación de Minas y Canteras,243865.48,2025-12-01
+2025-12,Bank of China,Explotación de Minas y Canteras,60130.44,2025-12-01
+2025-12,BCI,Explotación de Minas y Canteras,108992.98,2025-12-01
+2025-12,Compartamos,Explotación de Minas y Canteras,6927.24,2025-12-01
+2025-12,Santander,Explotación de Minas y Canteras,49.92,2025-12-01
+2025-12,BBVA,Industria Manufacturera,10165137.85,2025-12-01
+2025-12,Compartamos,Industria Manufacturera,63709.74,2025-12-01
+2025-12,BCP,Industria Manufacturera,17000186.26,2025-12-01
+2025-12,Pichincha,Industria Manufacturera,614800.43,2025-12-01
+2025-12,BanBif,Industria Manufacturera,2024422.7,2025-12-01
+2025-12,Scotiabank,Industria Manufacturera,6834110.54,2025-12-01
+2025-12,Citibank,Industria Manufacturera,376568.38,2025-12-01
+2025-12,Interbank,Industria Manufacturera,5925921.52,2025-12-01
+2025-12,Mibanco,Industria Manufacturera,964658.92,2025-12-01
+2025-12,GNB,Industria Manufacturera,301064.89,2025-12-01
+2025-12,Falabella,Industria Manufacturera,257.33,2025-12-01
+2025-12,Santander,Industria Manufacturera,976471.86,2025-12-01
+2025-12,Ripley,Industria Manufacturera,0.0,2025-12-01
+2025-12,Alfin Banco,Industria Manufacturera,29296.21,2025-12-01
+2025-12,ICBC,Industria Manufacturera,154779.87,2025-12-01
+2025-12,Bank of China,Industria Manufacturera,0.0,2025-12-01
+2025-12,BCI,Industria Manufacturera,362733.57,2025-12-01
+2025-12,Compartamos,Industria Manufacturera,400530.45,2025-12-01
+2025-12,Santander,Industria Manufacturera,777.48,2025-12-01
+2025-12,BBVA,"Electricidad, Gas, Vapor y Aire Acondicionado",631080.74,2025-12-01
+2025-12,Compartamos,"Electricidad, Gas, Vapor y Aire Acondicionado",122.38,2025-12-01
+2025-12,BCP,"Electricidad, Gas, Vapor y Aire Acondicionado",5223980.64,2025-12-01
+2025-12,Pichincha,"Electricidad, Gas, Vapor y Aire Acondicionado",100710.84,2025-12-01
+2025-12,BanBif,"Electricidad, Gas, Vapor y Aire Acondicionado",24609.53,2025-12-01
+2025-12,Scotiabank,"Electricidad, Gas, Vapor y Aire Acondicionado",702584.66,2025-12-01
+2025-12,Citibank,"Electricidad, Gas, Vapor y Aire Acondicionado",7199.67,2025-12-01
+2025-12,Interbank,"Electricidad, Gas, Vapor y Aire Acondicionado",587214.03,2025-12-01
+2025-12,Mibanco,"Electricidad, Gas, Vapor y Aire Acondicionado",1822.7,2025-12-01
+2025-12,GNB,"Electricidad, Gas, Vapor y Aire Acondicionado",58993.0,2025-12-01
+2025-12,Falabella,"Electricidad, Gas, Vapor y Aire Acondicionado",0.0,2025-12-01
+2025-12,Santander,"Electricidad, Gas, Vapor y Aire Acondicionado",68036.6,2025-12-01
+2025-12,Ripley,"Electricidad, Gas, Vapor y Aire Acondicionado",0.0,2025-12-01
+2025-12,Alfin Banco,"Electricidad, Gas, Vapor y Aire Acondicionado",36566.3,2025-12-01
+2025-12,ICBC,"Electricidad, Gas, Vapor y Aire Acondicionado",93782.38,2025-12-01
+2025-12,Bank of China,"Electricidad, Gas, Vapor y Aire Acondicionado",39000.0,2025-12-01
+2025-12,BCI,"Electricidad, Gas, Vapor y Aire Acondicionado",186630.0,2025-12-01
+2025-12,Compartamos,"Electricidad, Gas, Vapor y Aire Acondicionado",4315.44,2025-12-01
+2025-12,Santander,"Electricidad, Gas, Vapor y Aire Acondicionado",0.2,2025-12-01
+2025-12,BBVA,"Agua, Gestión de Desechos y Descontaminación",170345.45,2025-12-01
+2025-12,Compartamos,"Agua, Gestión de Desechos y Descontaminación",0.1,2025-12-01
+2025-12,BCP,"Agua, Gestión de Desechos y Descontaminación",81339.3,2025-12-01
+2025-12,Pichincha,"Agua, Gestión de Desechos y Descontaminación",45.47,2025-12-01
+2025-12,BanBif,"Agua, Gestión de Desechos y Descontaminación",1004.04,2025-12-01
+2025-12,Scotiabank,"Agua, Gestión de Desechos y Descontaminación",23331.94,2025-12-01
+2025-12,Citibank,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Interbank,"Agua, Gestión de Desechos y Descontaminación",5574.81,2025-12-01
+2025-12,Mibanco,"Agua, Gestión de Desechos y Descontaminación",34917.55,2025-12-01
+2025-12,GNB,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Falabella,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Santander,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Ripley,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Alfin Banco,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,ICBC,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Bank of China,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,BCI,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,Compartamos,"Agua, Gestión de Desechos y Descontaminación",4735.84,2025-12-01
+2025-12,Santander,"Agua, Gestión de Desechos y Descontaminación",0.0,2025-12-01
+2025-12,BBVA,Construcción,726794.51,2025-12-01
+2025-12,Compartamos,Construcción,5260.67,2025-12-01
+2025-12,BCP,Construcción,1695078.93,2025-12-01
+2025-12,Pichincha,Construcción,67252.91,2025-12-01
+2025-12,BanBif,Construcción,240788.23,2025-12-01
+2025-12,Scotiabank,Construcción,225435.09,2025-12-01
+2025-12,Citibank,Construcción,164.67,2025-12-01
+2025-12,Interbank,Construcción,320504.1,2025-12-01
+2025-12,Mibanco,Construcción,483062.4,2025-12-01
+2025-12,GNB,Construcción,58013.98,2025-12-01
+2025-12,Falabella,Construcción,0.0,2025-12-01
+2025-12,Santander,Construcción,190817.86,2025-12-01
+2025-12,Ripley,Construcción,0.0,2025-12-01
+2025-12,Alfin Banco,Construcción,19174.63,2025-12-01
+2025-12,ICBC,Construcción,0.0,2025-12-01
+2025-12,Bank of China,Construcción,0.0,2025-12-01
+2025-12,BCI,Construcción,8000.0,2025-12-01
+2025-12,Compartamos,Construcción,123616.12,2025-12-01
+2025-12,Santander,Construcción,14.13,2025-12-01
+2025-12,BBVA,Comercio,13259508.98,2025-12-01
+2025-12,Compartamos,Comercio,79412.96,2025-12-01
+2025-12,BCP,Comercio,20281988.56,2025-12-01
+2025-12,Pichincha,Comercio,688281.19,2025-12-01
+2025-12,BanBif,Comercio,1513522.58,2025-12-01
+2025-12,Scotiabank,Comercio,6649983.29,2025-12-01
+2025-12,Citibank,Comercio,433541.3,2025-12-01
+2025-12,Interbank,Comercio,4422897.3,2025-12-01
+2025-12,Mibanco,Comercio,6610080.93,2025-12-01
+2025-12,GNB,Comercio,488900.19,2025-12-01
+2025-12,Falabella,Comercio,2426.24,2025-12-01
+2025-12,Santander,Comercio,1297282.7,2025-12-01
+2025-12,Ripley,Comercio,0.0,2025-12-01
+2025-12,Alfin Banco,Comercio,27630.52,2025-12-01
+2025-12,ICBC,Comercio,134670.63,2025-12-01
+2025-12,Bank of China,Comercio,20000.0,2025-12-01
+2025-12,BCI,Comercio,281629.24,2025-12-01
+2025-12,Compartamos,Comercio,2213103.35,2025-12-01
+2025-12,Santander,Comercio,2403.34,2025-12-01
+2025-12,BBVA,Transporte y Almacenamiento,5093963.31,2025-12-01
+2025-12,Compartamos,Transporte y Almacenamiento,11017.3,2025-12-01
+2025-12,BCP,Transporte y Almacenamiento,6216933.2,2025-12-01
+2025-12,Pichincha,Transporte y Almacenamiento,123191.38,2025-12-01
+2025-12,BanBif,Transporte y Almacenamiento,656234.15,2025-12-01
+2025-12,Scotiabank,Transporte y Almacenamiento,1704637.26,2025-12-01
+2025-12,Citibank,Transporte y Almacenamiento,310.73,2025-12-01
+2025-12,Interbank,Transporte y Almacenamiento,1529539.2,2025-12-01
+2025-12,Mibanco,Transporte y Almacenamiento,1429424.99,2025-12-01
+2025-12,GNB,Transporte y Almacenamiento,123863.34,2025-12-01
+2025-12,Falabella,Transporte y Almacenamiento,311.99,2025-12-01
+2025-12,Santander,Transporte y Almacenamiento,270292.76,2025-12-01
+2025-12,Ripley,Transporte y Almacenamiento,0.0,2025-12-01
+2025-12,Alfin Banco,Transporte y Almacenamiento,5683.49,2025-12-01
+2025-12,ICBC,Transporte y Almacenamiento,6992.21,2025-12-01
+2025-12,Bank of China,Transporte y Almacenamiento,0.0,2025-12-01
+2025-12,BCI,Transporte y Almacenamiento,16161.08,2025-12-01
+2025-12,Compartamos,Transporte y Almacenamiento,156491.77,2025-12-01
+2025-12,Santander,Transporte y Almacenamiento,414.75,2025-12-01
+2025-12,BBVA,Alojamiento y Servicios de Comidas,558160.62,2025-12-01
+2025-12,Compartamos,Alojamiento y Servicios de Comidas,6604.37,2025-12-01
+2025-12,BCP,Alojamiento y Servicios de Comidas,1884365.0,2025-12-01
+2025-12,Pichincha,Alojamiento y Servicios de Comidas,4789.16,2025-12-01
+2025-12,BanBif,Alojamiento y Servicios de Comidas,103854.32,2025-12-01
+2025-12,Scotiabank,Alojamiento y Servicios de Comidas,648524.49,2025-12-01
+2025-12,Citibank,Alojamiento y Servicios de Comidas,800.69,2025-12-01
+2025-12,Interbank,Alojamiento y Servicios de Comidas,630203.29,2025-12-01
+2025-12,Mibanco,Alojamiento y Servicios de Comidas,898636.64,2025-12-01
+2025-12,GNB,Alojamiento y Servicios de Comidas,10329.77,2025-12-01
+2025-12,Falabella,Alojamiento y Servicios de Comidas,0.0,2025-12-01
+2025-12,Santander,Alojamiento y Servicios de Comidas,130069.7,2025-12-01
+2025-12,Ripley,Alojamiento y Servicios de Comidas,0.0,2025-12-01
+2025-12,Alfin Banco,Alojamiento y Servicios de Comidas,13528.06,2025-12-01
+2025-12,ICBC,Alojamiento y Servicios de Comidas,0.0,2025-12-01
+2025-12,Bank of China,Alojamiento y Servicios de Comidas,0.0,2025-12-01
+2025-12,BCI,Alojamiento y Servicios de Comidas,0.0,2025-12-01
+2025-12,Compartamos,Alojamiento y Servicios de Comidas,268471.34,2025-12-01
+2025-12,Santander,Alojamiento y Servicios de Comidas,629.7,2025-12-01
+2025-12,BBVA,Información y Comunicaciones,2235573.55,2025-12-01
+2025-12,Compartamos,Información y Comunicaciones,917.51,2025-12-01
+2025-12,BCP,Información y Comunicaciones,3001634.02,2025-12-01
+2025-12,Pichincha,Información y Comunicaciones,14361.02,2025-12-01
+2025-12,BanBif,Información y Comunicaciones,104836.59,2025-12-01
+2025-12,Scotiabank,Información y Comunicaciones,1306377.62,2025-12-01
+2025-12,Citibank,Información y Comunicaciones,8418.93,2025-12-01
+2025-12,Interbank,Información y Comunicaciones,1099820.54,2025-12-01
+2025-12,Mibanco,Información y Comunicaciones,50884.38,2025-12-01
+2025-12,GNB,Información y Comunicaciones,1393.15,2025-12-01
+2025-12,Falabella,Información y Comunicaciones,117.68,2025-12-01
+2025-12,Santander,Información y Comunicaciones,207897.44,2025-12-01
+2025-12,Ripley,Información y Comunicaciones,0.0,2025-12-01
+2025-12,Alfin Banco,Información y Comunicaciones,19801.02,2025-12-01
+2025-12,ICBC,Información y Comunicaciones,0.0,2025-12-01
+2025-12,Bank of China,Información y Comunicaciones,0.0,2025-12-01
+2025-12,BCI,Información y Comunicaciones,75.42,2025-12-01
+2025-12,Compartamos,Información y Comunicaciones,25383.78,2025-12-01
+2025-12,Santander,Información y Comunicaciones,37.11,2025-12-01
+2025-12,BBVA,Actividades Financieras y de Seguros,2763906.21,2025-12-01
+2025-12,Compartamos,Actividades Financieras y de Seguros,7189.13,2025-12-01
+2025-12,BCP,Actividades Financieras y de Seguros,4644078.48,2025-12-01
+2025-12,Pichincha,Actividades Financieras y de Seguros,498681.61,2025-12-01
+2025-12,BanBif,Actividades Financieras y de Seguros,446453.4,2025-12-01
+2025-12,Scotiabank,Actividades Financieras y de Seguros,1399255.32,2025-12-01
+2025-12,Citibank,Actividades Financieras y de Seguros,92963.01,2025-12-01
+2025-12,Interbank,Actividades Financieras y de Seguros,1258928.61,2025-12-01
+2025-12,Mibanco,Actividades Financieras y de Seguros,15685.94,2025-12-01
+2025-12,GNB,Actividades Financieras y de Seguros,468307.25,2025-12-01
+2025-12,Falabella,Actividades Financieras y de Seguros,0.0,2025-12-01
+2025-12,Santander,Actividades Financieras y de Seguros,227588.41,2025-12-01
+2025-12,Ripley,Actividades Financieras y de Seguros,0.0,2025-12-01
+2025-12,Alfin Banco,Actividades Financieras y de Seguros,49870.46,2025-12-01
+2025-12,ICBC,Actividades Financieras y de Seguros,231000.0,2025-12-01
+2025-12,Bank of China,Actividades Financieras y de Seguros,0.0,2025-12-01
+2025-12,BCI,Actividades Financieras y de Seguros,670287.59,2025-12-01
+2025-12,Compartamos,Actividades Financieras y de Seguros,3555.16,2025-12-01
+2025-12,Santander,Actividades Financieras y de Seguros,38.18,2025-12-01
+2025-12,BBVA,Actividades Inmobiliarias,1605770.77,2025-12-01
+2025-12,Compartamos,Actividades Inmobiliarias,2990.65,2025-12-01
+2025-12,BCP,Actividades Inmobiliarias,3000100.31,2025-12-01
+2025-12,Pichincha,Actividades Inmobiliarias,129764.89,2025-12-01
+2025-12,BanBif,Actividades Inmobiliarias,852277.6,2025-12-01
+2025-12,Scotiabank,Actividades Inmobiliarias,958778.8,2025-12-01
+2025-12,Citibank,Actividades Inmobiliarias,0.0,2025-12-01
+2025-12,Interbank,Actividades Inmobiliarias,1553955.43,2025-12-01
+2025-12,Mibanco,Actividades Inmobiliarias,345479.43,2025-12-01
+2025-12,GNB,Actividades Inmobiliarias,44559.65,2025-12-01
+2025-12,Falabella,Actividades Inmobiliarias,0.0,2025-12-01
+2025-12,Santander,Actividades Inmobiliarias,260702.81,2025-12-01
+2025-12,Ripley,Actividades Inmobiliarias,0.0,2025-12-01
+2025-12,Alfin Banco,Actividades Inmobiliarias,4750.0,2025-12-01
+2025-12,ICBC,Actividades Inmobiliarias,70845.86,2025-12-01
+2025-12,Bank of China,Actividades Inmobiliarias,0.0,2025-12-01
+2025-12,BCI,Actividades Inmobiliarias,337872.0,2025-12-01
+2025-12,Compartamos,Actividades Inmobiliarias,62197.44,2025-12-01
+2025-12,Santander,Actividades Inmobiliarias,179.67,2025-12-01
+2025-12,BBVA,"Actividades Profesionales, Científicas y Técnicas",855410.68,2025-12-01
+2025-12,Compartamos,"Actividades Profesionales, Científicas y Técnicas",3738.81,2025-12-01
+2025-12,BCP,"Actividades Profesionales, Científicas y Técnicas",1938385.78,2025-12-01
+2025-12,Pichincha,"Actividades Profesionales, Científicas y Técnicas",139676.22,2025-12-01
+2025-12,BanBif,"Actividades Profesionales, Científicas y Técnicas",139703.42,2025-12-01
+2025-12,Scotiabank,"Actividades Profesionales, Científicas y Técnicas",825962.19,2025-12-01
+2025-12,Citibank,"Actividades Profesionales, Científicas y Técnicas",13115.0,2025-12-01
+2025-12,Interbank,"Actividades Profesionales, Científicas y Técnicas",1487895.35,2025-12-01
+2025-12,Mibanco,"Actividades Profesionales, Científicas y Técnicas",346106.51,2025-12-01
+2025-12,GNB,"Actividades Profesionales, Científicas y Técnicas",13211.54,2025-12-01
+2025-12,Falabella,"Actividades Profesionales, Científicas y Técnicas",6.4,2025-12-01
+2025-12,Santander,"Actividades Profesionales, Científicas y Técnicas",236045.19,2025-12-01
+2025-12,Ripley,"Actividades Profesionales, Científicas y Técnicas",0.0,2025-12-01
+2025-12,Alfin Banco,"Actividades Profesionales, Científicas y Técnicas",1260.06,2025-12-01
+2025-12,ICBC,"Actividades Profesionales, Científicas y Técnicas",2011.67,2025-12-01
+2025-12,Bank of China,"Actividades Profesionales, Científicas y Técnicas",0.0,2025-12-01
+2025-12,BCI,"Actividades Profesionales, Científicas y Técnicas",35731.99,2025-12-01
+2025-12,Compartamos,"Actividades Profesionales, Científicas y Técnicas",39307.23,2025-12-01
+2025-12,Santander,"Actividades Profesionales, Científicas y Técnicas",154.99,2025-12-01
+2025-12,BBVA,Actividades de Servicios Administrativos y de Apoyo,981725.3,2025-12-01
+2025-12,Compartamos,Actividades de Servicios Administrativos y de Apoyo,3892.1,2025-12-01
+2025-12,BCP,Actividades de Servicios Administrativos y de Apoyo,2045056.96,2025-12-01
+2025-12,Pichincha,Actividades de Servicios Administrativos y de Apoyo,35814.98,2025-12-01
+2025-12,BanBif,Actividades de Servicios Administrativos y de Apoyo,274381.99,2025-12-01
+2025-12,Scotiabank,Actividades de Servicios Administrativos y de Apoyo,597890.88,2025-12-01
+2025-12,Citibank,Actividades de Servicios Administrativos y de Apoyo,52481.61,2025-12-01
+2025-12,Interbank,Actividades de Servicios Administrativos y de Apoyo,374053.99,2025-12-01
+2025-12,Mibanco,Actividades de Servicios Administrativos y de Apoyo,547983.09,2025-12-01
+2025-12,GNB,Actividades de Servicios Administrativos y de Apoyo,17148.98,2025-12-01
+2025-12,Falabella,Actividades de Servicios Administrativos y de Apoyo,8.71,2025-12-01
+2025-12,Santander,Actividades de Servicios Administrativos y de Apoyo,51377.53,2025-12-01
+2025-12,Ripley,Actividades de Servicios Administrativos y de Apoyo,0.0,2025-12-01
+2025-12,Alfin Banco,Actividades de Servicios Administrativos y de Apoyo,8583.09,2025-12-01
+2025-12,ICBC,Actividades de Servicios Administrativos y de Apoyo,0.0,2025-12-01
+2025-12,Bank of China,Actividades de Servicios Administrativos y de Apoyo,0.0,2025-12-01
+2025-12,BCI,Actividades de Servicios Administrativos y de Apoyo,35140.12,2025-12-01
+2025-12,Compartamos,Actividades de Servicios Administrativos y de Apoyo,56052.35,2025-12-01
+2025-12,Santander,Actividades de Servicios Administrativos y de Apoyo,95.88,2025-12-01
+2025-12,BBVA,Administración Pública y Defensa,88047.33,2025-12-01
+2025-12,Compartamos,Administración Pública y Defensa,100.07,2025-12-01
+2025-12,BCP,Administración Pública y Defensa,6697.04,2025-12-01
+2025-12,Pichincha,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,BanBif,Administración Pública y Defensa,590.12,2025-12-01
+2025-12,Scotiabank,Administración Pública y Defensa,357542.43,2025-12-01
+2025-12,Citibank,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Interbank,Administración Pública y Defensa,3291.47,2025-12-01
+2025-12,Mibanco,Administración Pública y Defensa,6498.39,2025-12-01
+2025-12,GNB,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Falabella,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Santander,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Ripley,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Alfin Banco,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,ICBC,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Bank of China,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,BCI,Administración Pública y Defensa,0.0,2025-12-01
+2025-12,Compartamos,Administración Pública y Defensa,3407.65,2025-12-01
+2025-12,Santander,Administración Pública y Defensa,12.0,2025-12-01
+2025-12,BBVA,Enseñanza,750166.86,2025-12-01
+2025-12,Compartamos,Enseñanza,4639.19,2025-12-01
+2025-12,BCP,Enseñanza,1305944.32,2025-12-01
+2025-12,Pichincha,Enseñanza,78088.98,2025-12-01
+2025-12,BanBif,Enseñanza,345411.73,2025-12-01
+2025-12,Scotiabank,Enseñanza,948004.04,2025-12-01
+2025-12,Citibank,Enseñanza,0.0,2025-12-01
+2025-12,Interbank,Enseñanza,126320.42,2025-12-01
+2025-12,Mibanco,Enseñanza,69123.85,2025-12-01
+2025-12,GNB,Enseñanza,2120.0,2025-12-01
+2025-12,Falabella,Enseñanza,0.0,2025-12-01
+2025-12,Santander,Enseñanza,455298.66,2025-12-01
+2025-12,Ripley,Enseñanza,0.0,2025-12-01
+2025-12,Alfin Banco,Enseñanza,3625.29,2025-12-01
+2025-12,ICBC,Enseñanza,0.0,2025-12-01
+2025-12,Bank of China,Enseñanza,0.0,2025-12-01
+2025-12,BCI,Enseñanza,68713.12,2025-12-01
+2025-12,Compartamos,Enseñanza,17011.08,2025-12-01
+2025-12,Santander,Enseñanza,141.23,2025-12-01
+2025-12,BBVA,Salud Humana y Asistencia Social,721334.69,2025-12-01
+2025-12,Compartamos,Salud Humana y Asistencia Social,5708.04,2025-12-01
+2025-12,BCP,Salud Humana y Asistencia Social,685447.38,2025-12-01
+2025-12,Pichincha,Salud Humana y Asistencia Social,4077.47,2025-12-01
+2025-12,BanBif,Salud Humana y Asistencia Social,262326.98,2025-12-01
+2025-12,Scotiabank,Salud Humana y Asistencia Social,305771.58,2025-12-01
+2025-12,Citibank,Salud Humana y Asistencia Social,14402.89,2025-12-01
+2025-12,Interbank,Salud Humana y Asistencia Social,254527.19,2025-12-01
+2025-12,Mibanco,Salud Humana y Asistencia Social,138369.87,2025-12-01
+2025-12,GNB,Salud Humana y Asistencia Social,2508.27,2025-12-01
+2025-12,Falabella,Salud Humana y Asistencia Social,0.0,2025-12-01
+2025-12,Santander,Salud Humana y Asistencia Social,15431.92,2025-12-01
+2025-12,Ripley,Salud Humana y Asistencia Social,0.0,2025-12-01
+2025-12,Alfin Banco,Salud Humana y Asistencia Social,2000.0,2025-12-01
+2025-12,ICBC,Salud Humana y Asistencia Social,0.0,2025-12-01
+2025-12,Bank of China,Salud Humana y Asistencia Social,0.0,2025-12-01
+2025-12,BCI,Salud Humana y Asistencia Social,0.0,2025-12-01
+2025-12,Compartamos,Salud Humana y Asistencia Social,26666.3,2025-12-01
+2025-12,Santander,Salud Humana y Asistencia Social,9.09,2025-12-01
+2025-12,BBVA,"Act. Artísticas, de Entretenimiento y Recreativas",184137.11,2025-12-01
+2025-12,Compartamos,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,BCP,"Act. Artísticas, de Entretenimiento y Recreativas",357063.28,2025-12-01
+2025-12,Pichincha,"Act. Artísticas, de Entretenimiento y Recreativas",223.68,2025-12-01
+2025-12,BanBif,"Act. Artísticas, de Entretenimiento y Recreativas",3151.07,2025-12-01
+2025-12,Scotiabank,"Act. Artísticas, de Entretenimiento y Recreativas",169370.06,2025-12-01
+2025-12,Citibank,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,Interbank,"Act. Artísticas, de Entretenimiento y Recreativas",35725.46,2025-12-01
+2025-12,Mibanco,"Act. Artísticas, de Entretenimiento y Recreativas",59128.11,2025-12-01
+2025-12,GNB,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,Falabella,"Act. Artísticas, de Entretenimiento y Recreativas",45.82,2025-12-01
+2025-12,Santander,"Act. Artísticas, de Entretenimiento y Recreativas",24300.0,2025-12-01
+2025-12,Ripley,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,Alfin Banco,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,ICBC,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,Bank of China,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,BCI,"Act. Artísticas, de Entretenimiento y Recreativas",0.0,2025-12-01
+2025-12,Compartamos,"Act. Artísticas, de Entretenimiento y Recreativas",26029.61,2025-12-01
+2025-12,Santander,"Act. Artísticas, de Entretenimiento y Recreativas",29.79,2025-12-01
+2025-12,BBVA,Otras Actividades de Servicios,349602.38,2025-12-01
+2025-12,Compartamos,Otras Actividades de Servicios,817.63,2025-12-01
+2025-12,BCP,Otras Actividades de Servicios,1898444.58,2025-12-01
+2025-12,Pichincha,Otras Actividades de Servicios,4805.87,2025-12-01
+2025-12,BanBif,Otras Actividades de Servicios,28903.67,2025-12-01
+2025-12,Scotiabank,Otras Actividades de Servicios,305313.29,2025-12-01
+2025-12,Citibank,Otras Actividades de Servicios,6.54,2025-12-01
+2025-12,Interbank,Otras Actividades de Servicios,123858.25,2025-12-01
+2025-12,Mibanco,Otras Actividades de Servicios,274541.27,2025-12-01
+2025-12,GNB,Otras Actividades de Servicios,120.27,2025-12-01
+2025-12,Falabella,Otras Actividades de Servicios,106.36,2025-12-01
+2025-12,Santander,Otras Actividades de Servicios,0.0,2025-12-01
+2025-12,Ripley,Otras Actividades de Servicios,0.0,2025-12-01
+2025-12,Alfin Banco,Otras Actividades de Servicios,313.04,2025-12-01
+2025-12,ICBC,Otras Actividades de Servicios,0.0,2025-12-01
+2025-12,Bank of China,Otras Actividades de Servicios,0.0,2025-12-01
+2025-12,BCI,Otras Actividades de Servicios,0.0,2025-12-01
+2025-12,Compartamos,Otras Actividades de Servicios,138763.18,2025-12-01
+2025-12,Santander,Otras Actividades de Servicios,950.03,2025-12-01
+2025-12,BBVA,Act. Hogares como Empleadores y Órganos extraterritoriales,1289336.44,2025-12-01
+2025-12,Compartamos,Act. Hogares como Empleadores y Órganos extraterritoriales,1675.36,2025-12-01
+2025-12,BCP,Act. Hogares como Empleadores y Órganos extraterritoriales,64995.61,2025-12-01
+2025-12,Pichincha,Act. Hogares como Empleadores y Órganos extraterritoriales,26765.34,2025-12-01
+2025-12,BanBif,Act. Hogares como Empleadores y Órganos extraterritoriales,83571.21,2025-12-01
+2025-12,Scotiabank,Act. Hogares como Empleadores y Órganos extraterritoriales,206025.74,2025-12-01
+2025-12,Citibank,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Interbank,Act. Hogares como Empleadores y Órganos extraterritoriales,1806.26,2025-12-01
+2025-12,Mibanco,Act. Hogares como Empleadores y Órganos extraterritoriales,6527.25,2025-12-01
+2025-12,GNB,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Falabella,Act. Hogares como Empleadores y Órganos extraterritoriales,3.15,2025-12-01
+2025-12,Santander,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Ripley,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Alfin Banco,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,ICBC,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Bank of China,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,BCI,Act. Hogares como Empleadores y Órganos extraterritoriales,0.0,2025-12-01
+2025-12,Compartamos,Act. Hogares como Empleadores y Órganos extraterritoriales,44666.56,2025-12-01
+2025-12,Santander,Act. Hogares como Empleadores y Órganos extraterritoriales,211.97,2025-12-01
