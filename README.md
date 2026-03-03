@@ -64,7 +64,7 @@ analisis-sbs/
 ## Cómo ejecutar
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tuusuario/analisis-sbs
+git clone https://github.com/SebGarate/Analisis-SBS
 
 # 2. Instalar dependencias
 pip install pandas openpyxl matplotlib seaborn jupyter
